@@ -34,13 +34,13 @@ function initSiteContent() {
   }
 
   // 1.1 Meta Tag & Header Brand
-  document.title = siteConfig.siteTitle || "BALI JOURNAL — KKL Bali";
+  document.title = siteConfig.siteTitle || "KKL BALI — Kelompok 5";
   
   const brandTitleEl = document.getElementById("brand-title");
-  if (brandTitleEl) brandTitleEl.textContent = siteConfig.brandName || "BALI JOURNAL";
+  if (brandTitleEl) brandTitleEl.textContent = siteConfig.brandName || "KKL BALI";
 
   const brandTaglineEl = document.getElementById("brand-tagline");
-  if (brandTaglineEl) brandTaglineEl.textContent = siteConfig.activityName || "KKL DOKUMENTASI";
+  if (brandTaglineEl) brandTaglineEl.textContent = siteConfig.groupName || "Kelompok 5";
 
   // 1.2 Render Hero Section
   renderHeroSection();
@@ -114,10 +114,10 @@ function renderHeroSection() {
   if (eyebrowEl && heroConfig.eyebrow) eyebrowEl.textContent = heroConfig.eyebrow;
 
   const titleLine1El = document.getElementById("hero-title-line1");
-  if (titleLine1El) titleLine1El.textContent = heroConfig.titleLine1 || "BALI,";
+  if (titleLine1El) titleLine1El.textContent = heroConfig.titleLine1 || "KKL BALI,";
 
   const titleLine2El = document.getElementById("hero-title-line2");
-  if (titleLine2El) titleLine2El.textContent = heroConfig.titleLine2 || "BEYOND THE JOURNEY";
+  if (titleLine2El) titleLine2El.textContent = heroConfig.titleLine2 || "KELOMPOK 5";
 
   const quoteEl = document.getElementById("hero-quote");
   if (quoteEl) quoteEl.textContent = heroConfig.quote || "";
@@ -311,7 +311,7 @@ function renderExploreGallery() {
       compiledItems.push({
         id: mom.id,
         category: "moments",
-        categoryLabel: "Moments",
+        categoryLabel: "Momen",
         title: mom.title,
         location: mom.location,
         desc: mom.caption,
@@ -831,10 +831,10 @@ function renderFooter() {
   if (typeof siteConfig === "undefined") return;
 
   const brandEl = document.getElementById("footer-brand-title");
-  if (brandEl) brandEl.textContent = siteConfig.brandName || "BALI JOURNAL";
+  if (brandEl) brandEl.textContent = siteConfig.brandName || "KKL BALI";
 
   const subEl = document.getElementById("footer-brand-sub");
-  if (subEl) subEl.textContent = `${siteConfig.activityName || "KKL Bali"} — ${siteConfig.institutionName || ""}`;
+  if (subEl) subEl.textContent = `${siteConfig.groupName || "Kelompok 5"} — ${siteConfig.activityName || "KKL Bali"}`;
 
   const copyYear = document.getElementById("footer-copy-year");
   if (copyYear) copyYear.textContent = new Date().getFullYear();
@@ -1048,7 +1048,7 @@ function updateLightboxContent() {
   }
 
   if (counterEl) {
-    counterEl.textContent = `${currentLightboxIndex + 1} / ${lightboxGalleryItems.length}`;
+    counterEl.textContent = `${currentLightboxIndex + 1} dari ${lightboxGalleryItems.length}`;
   }
 }
 

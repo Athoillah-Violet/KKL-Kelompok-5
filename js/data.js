@@ -24,9 +24,9 @@
 
 const siteConfig = {
   // Identitas Website & Kelompok
-  siteTitle: "BALI JOURNAL — KKL Dokumentasi Perjalanan",
-  brandName: "BALI JOURNAL",
-  groupName: "Kelompok KKL Bali", // [Placeholder] Ganti dengan nama kelompok Anda (misal: Kelompok 04 / Tim Ananta)
+  siteTitle: "KKL BALI — Kelompok 5",
+  brandName: "KKL BALI",
+  groupName: "Kelompok 5", // Identitas Kelompok 5
   institutionName: "[Nama Program Studi / Universitas]", // [Placeholder] Contoh: Teknik Informatika - Universitas Indonesia
   activityName: "Kunjungan Kerja Lapangan (KKL) Bali",
   travelPeriod: "[Bulan Tahun, misal: Oktober 2026]", // [Placeholder] Periode perjalanan
@@ -36,14 +36,14 @@ const siteConfig = {
   repoUrl: "https://github.com/",
   instagramUrl: "", // Kosongkan jika tidak ada
   
-  // Teks pembuka bagian "About"
+  // Teks pembuka bagian "Tentang Kami"
   about: {
-    badge: "The Genesis",
+    badge: "Awal Mula",
     title: "Tentang Perjalanan Kami",
     subtitle: "Merekam jejak ilmu, eksplorasi budaya pulau dewata, dan persahabatan yang mengakar erat.",
     paragraphs: [
       "Kunjungan Kerja Lapangan (KKL) ini bukan sekadar agenda akademik wajib, melainkan jendela pembuka wawasan yang mempertemukan kami langsung dengan denyut industri kreatif, tradisi agrikultur berkelanjutan, serta kekayaan pusaka kultural Pulau Bali.",
-      "Selama perjalanan, 10 anggota kelompok kami berproses bersama: belajar mengamati dinamika profesional di lapangan, menyerap kearifan lokal masyarakat Bali, dan merajut momen kebersamaan yang terekam utuh dalam arsip jurnal digital ini."
+      "Selama perjalanan, 10 anggota Kelompok 5 berproses bersama: belajar mengamati dinamika profesional di lapangan, menyerap kearifan lokal masyarakat Bali, dan merajut momen kebersamaan yang terekam utuh dalam arsip jurnal digital ini."
     ],
     supportingPhoto1: {
       src: "assets/images/destinations/tanah-lot.jpg",
@@ -78,15 +78,15 @@ const heroConfig = {
 
   // Tipografi & Headline Hero
   eyebrow: "DOKUMENTASI KUNJUNGAN KERJA LAPANGAN",
-  titleLine1: "BALI,",
-  titleLine2: "BEYOND THE JOURNEY",
+  titleLine1: "KKL BALI,",
+  titleLine2: "KELOMPOK 5",
   quote: "Sepuluh orang, satu perjalanan, dan cerita yang akan selalu dikenang.",
   
   // Metadata Hero yang tampil di badge
   metaBadges: [
     { label: "Kegiatan", value: "KKL Lapangan" },
     { label: "Lokasi", value: "Bali, Indonesia" },
-    { label: "Kolektif", value: "10 Mahasiswa" }
+    { label: "Kelompok", value: "Kelompok 5 (10 Orang)" }
   ],
   
   ctaText: "Jelajahi Perjalanan",
@@ -399,7 +399,7 @@ const videos = [
     id: "video-featured",
     isFeatured: true,
     title: "Cinematic Recap: 10 Langkah di Pulau Dewata",
-    category: "Highlight Reel",
+    category: "Sorotan Utama",
     duration: "[03:45]", // [Placeholder]
     description: "Rangkuman visual perjalanan KKL dari hari pertama kedatangan, sesi observasi industri, hingga keindahan alam dan momen canda tawa di balik layar.",
     type: "local", // "local" atau "embed"
@@ -554,8 +554,8 @@ const groupPortrait = {
  * Konfigurasi Penutup (Closing Chapter)
  */
 const closingConfig = {
-  badge: "Epilogue",
-  title: "Until the Next Journey",
+  badge: "Catatan Akhir",
+  title: "Hingga Perjalanan Berikutnya",
   quote: "Setiap langkah di tanah dewata telah menjadi bagian dari cerita hidup kami. Kita berangkat sebagai rekan satu tim, dan kembali sebagai keluarga.",
   paragraphs: [
     "Kunjungan Kerja Lapangan ini telah mengajarkan kami bahwa ilmu tidak hanya bersemayam di balik dinding ruang kuliah dan buku teks. Ilmu hidup di tengah masyarakat, berdenyut di lantai workshop para perajin, dan mengalir bersama kearifan tradisi yang dijaga turun-temurun.",
@@ -585,7 +585,7 @@ const closingConfig = {
   ],
   credits: {
     institution: "[Nama Program Studi / Universitas]", // [Placeholder]
-    groupName: "Kelompok KKL Bali", // [Placeholder]
+    groupName: "Kelompok 5 — KKL Bali", // Identitas Kelompok 5
     curators: "Tim Dokumentasi & Publikasi",
     year: "2026"
   }
