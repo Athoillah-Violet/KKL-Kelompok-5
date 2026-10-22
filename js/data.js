@@ -236,6 +236,90 @@ const destinations = [
         caption: "Kesejukan ruang terbuka hijau di dalam lingkungan perumahan adat Bangli."
       }
     ]
+  },
+  {
+    id: "wisata-04",
+    category: "wisata",
+    title: "Pura Ulun Danu Beratan",
+    location: "Bedugul, Tabanan, Bali",
+    badge: "Danau & Spiritualitas",
+    description: "Pura air yang mengapung anggun di atas permukaan Danau Beratan, dikelilingi kabut sejuk dataran tinggi Bedugul. Bangunan berundak yang menjulang di tepi danau menghadirkan nuansa tenang sekaligus sakral bagi siapa pun yang memandangnya.",
+    experience: "Suasana pagi di tepi danau terasa begitu hening; kami menikmati embusan udara pegunungan sambil mengabadikan siluet pura yang memantul lembut di atas air.",
+    cover: "assets/images/destinations/beratan.jpg",
+    coverAlt: "Pura Ulun Danu Beratan berdiri di tepi Danau Beratan yang tenang",
+    photos: [
+      {
+        src: "assets/images/destinations/beratan.jpg",
+        alt: "Pura Ulun Danu Beratan di tepi danau",
+        caption: "Bangunan pura berundak yang menapak di tepi Danau Beratan berlatar perbukitan hijau."
+      },
+      {
+        src: "assets/images/destinations/beratan-sub1.jpg",
+        alt: "Kabut pagi di atas Danau Beratan",
+        caption: "Selimut kabut tipis menyapa permukaan danau saat pagi mulai menyingsing."
+      },
+      {
+        src: "assets/images/destinations/beratan-sub2.jpg",
+        alt: "Taman tepi danau Beratan",
+        caption: "Taman bunga yang tertata rapi menuntun langkah menuju pelataran pura."
+      }
+    ]
+  },
+  {
+    id: "wisata-05",
+    category: "wisata",
+    title: "Pura Luhur Uluwatu",
+    location: "Uluwatu, Badung, Bali",
+    badge: "Pura Tebing & Samudra",
+    description: "Pura yang bertengger di tepi tebing karang setinggi puluhan meter menghadap langsung ke Samudra Hindia. Panorama tebing curam, deburan ombak, dan langit senja menjadikan Uluwatu salah satu titik paling dramatis di ujung selatan Pulau Dewata.",
+    experience: "Kami menyusuri jalan setapak di tepi tebing, sesekali berpapasan dengan kera penghuni sekitar, lalu terdiam menyaksikan matahari tenggelam di garis cakrawala samudra.",
+    cover: "assets/images/destinations/uluwatu.jpg",
+    coverAlt: "Pura Luhur Uluwatu di atas tebing menghadap samudra",
+    photos: [
+      {
+        src: "assets/images/destinations/uluwatu.jpg",
+        alt: "Pura Luhur Uluwatu di tepi tebing",
+        caption: "Arsitektur pura di ujung tebing karang dengan latar birunya Samudra Hindia."
+      },
+      {
+        src: "assets/images/destinations/uluwatu-sub1.jpg",
+        alt: "Tebing karang Uluwatu",
+        caption: "Dinding tebing curam yang tegak berdiri menghadapi gempuran ombak dari bawah."
+      },
+      {
+        src: "assets/images/destinations/uluwatu-sub2.jpg",
+        alt: "Senja di Uluwatu",
+        caption: "Langit jingga menemani suasana hening menjelang pertunjukan tari Kecak."
+      }
+    ]
+  },
+  {
+    id: "wisata-06",
+    category: "wisata",
+    title: "Kintamani & Panorama Gunung Batur",
+    location: "Kintamani, Bangli, Bali",
+    badge: "Vulkanik & Pemandangan",
+    description: "Kawasan dataran tinggi yang menyuguhkan pemandangan Gunung Batur berdiri gagah di sisi kaldera luas. Udara sejuk pegunungan, hamparan bukit vulkanik, dan kedamaian danau di bawahnya menghadirkan lanskap yang berbeda dari pesisir Bali.",
+    experience: "Sarapan hangat di tepi kaldera sambil memandang kontur Gunung Batur menjadi pembuka hari yang tak terlupakan bagi seluruh anggota kelompok.",
+    cover: "assets/images/destinations/kintamani.jpg",
+    coverAlt: "Panorama Gunung Batur dari dataran tinggi Kintamani",
+    photos: [
+      {
+        src: "assets/images/destinations/kintamani.jpg",
+        alt: "Panorama Gunung Batur Kintamani",
+        caption: "Siluet Gunung Batur yang tegas berlatar langit biru dataran tinggi Kintamani."
+      },
+      {
+        src: "assets/images/destinations/kintamani-sub1.jpg",
+        alt: "Kaldera dan danau Batur",
+        caption: "Hamparan kaldera vulkanik dengan Danau Batur yang membentang tenang di bawahnya."
+      },
+      {
+        src: "assets/images/destinations/kintamani-sub2.jpg",
+        alt: "Pemandangan bukit di Kintamani",
+        caption: "Perbukitan hijau dan jalan berkelok yang membelah kawasan pegunungan Bangli."
+      }
+    ]
   }
 ];
 

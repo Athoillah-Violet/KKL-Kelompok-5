@@ -22,7 +22,7 @@ const assetDriveMap = {
   "assets/images/members/member-08.jpg": "https://drive.google.com/file/d/1gUgE0-WGp8RhfjaLLBWP7WZQzmOenvMH/view?usp=drive_link",
   "assets/images/members/member-09.jpg": "https://drive.google.com/file/d/1VA7zFhXGOZm_Xz_BXjwitllp96H9N2ug/view?usp=drive_link",
   "assets/images/group/group-portrait.jpg": "https://drive.google.com/file/d/1eiSoXVw_ntBDAktnf-_rap25xN2FVzec/view?usp=drive_link",
-
+  "assets/images/hero/hero-cover.jpg": "https://drive.google.com/file/d/1AScO6dkCK7cTWLajR-Row0i8Ib9i4iVr/view?usp=drive_link",
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
   "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/1EJNtz7RzfQOhvv-Y1GbKPBntprqteCG_/view?usp=sharing",
   // "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/1WAfqM-sdveQojpmrn6pHuAsSCfKmLOf6/view?usp=sharing",
@@ -31,29 +31,35 @@ const assetDriveMap = {
 //     "assets/images/destinations/IMG_5102.HEIC": "",[cite: 2]
 //     "assets/images/destinations/IMG_5331.JPG.jpeg": "",[cite: 2]
 //     "assets/images/destinations/IMG_5483.HEIC": "",[cite: 2]
-//     "assets/images/destinations/penglipuran-sub1.jpg": "",[cite: 2]
+    "assets/images/destinations/penglipuran-sub1.jpg": "",
 //     "assets/images/destinations/penglipuran-sub2.jpg": "",[cite: 2]
-//     "assets/images/destinations/penglipuran.jpg": "",[cite: 2]
+    "assets/images/destinations/penglipuran.jpg": "https://drive.google.com/file/d/1kOwpJBNG-FUYUk2MExLz8b98WtSx-x5P/view?usp=drive_link",
 //     "assets/images/destinations/tanah-lot-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tanah-lot-sub2.jpg": "",[cite: 2]
-//     "assets/images/destinations/tanah-lot.jpg": "",[cite: 2]
+    "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1L4NxZ31tdz0a0ClkMO8vAgH4i5T3Qhf1/view?usp=drive_link",
 //     "assets/images/destinations/tegalalang-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
 
-//     // Group[cite: 2]
-//     "assets/images/group/group-portrait.jpg": "",[cite: 2]
-
-//     // Hero[cite: 2]
-//     "assets/images/hero/hero-cover.jpg": "",[cite: 2]
+    // Destinasi tambahan (wisata-04 s/d wisata-06) — tempel link Drive di sini
+    "assets/images/destinations/beratan.jpg": "",
+    "assets/images/destinations/beratan-sub1.jpg": "",
+    "assets/images/destinations/beratan-sub2.jpg": "",
+    "assets/images/destinations/uluwatu.jpg": "",
+    "assets/images/destinations/uluwatu-sub1.jpg": "",
+    "assets/images/destinations/uluwatu-sub2.jpg": "",
+    "assets/images/destinations/kintamani.jpg": "",
+    "assets/images/destinations/kintamani-sub1.jpg": "",
+    "assets/images/destinations/kintamani-sub2.jpg": "",
 
 //     // Industry[cite: 2]
-//     "assets/images/industry/coffee-roastery.jpg": "",[cite: 2]
+//     "assets/images/industry/coffee-roastery.jpg": "",
 //     "assets/images/industry/coffee-sub1.jpg": "",[cite: 2]
 //     "assets/images/industry/coffee-sub2.jpg": "",[cite: 2]
-//     "assets/images/industry/creative-industry.jpg": "",[cite: 2]
-//     "assets/images/industry/creative-sub1.jpg": "",[cite: 2]
-//     "assets/images/industry/creative-sub2.jpg": "",[cite: 2]
+    // "assets/images/industry/coffee-roastery.jpg": "",
+    "assets/images/industry/creative-industry.jpg": "https://drive.google.com/file/d/1LqyPp7xavoJ7eIwMZKhYKvZ4sBw8oI4q/view?usp=drive_link",
+//     "assets/images/industry/creative-sub1.jpg": "",
+//     "assets/images/industry/creative-sub2.jpg": "",[cit  e: 2]
 
 //     // Moments[cite: 2]
 //     "assets/images/moments/moment-01.jpg": "",[cite: 2]
@@ -61,6 +67,6 @@ const assetDriveMap = {
 //     "assets/images/moments/moment-03.jpg": "",[cite: 2]
 //     "assets/images/moments/moment-04.jpg": "",[cite: 2]
 //     "assets/images/moments/moment-05.jpg": "",[cite: 2]
-//     "assets/images/moments/moment-06.jpg": "",[cite: 2]
+    "assets/images/moments/moment-06.jpg": "https://drive.google.com/file/d/1FH8MvdZpOLRvD47yiKr-EzyBP2Yqa4yw/view?usp=drive_link",
 
 };
