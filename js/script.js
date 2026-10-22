@@ -911,7 +911,13 @@ function renderVideos() {
             <h3 class="cinema-title">${escapeHtml(featured.title)}</h3>
             <p class="cinema-desc">${escapeHtml(featured.description || "")}</p>
           </div>
-          ${featured.duration ? `<span class="cinema-duration-badge">⏱ ${escapeHtml(featured.duration)}</span>` : ""}
+          <div class="cinema-meta-side">
+            ${featured.duration ? `<span class="cinema-duration-badge">⏱ ${escapeHtml(featured.duration)}</span>` : ""}
+            <button type="button" class="video-back-btn" id="back-to-featured-video" onclick="playFeaturedVideo()" hidden>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+              Kembali ke Video Sinematik
+            </button>
+          </div>
         </div>
       </div>
     `;
@@ -980,7 +986,43 @@ window.playSecondaryVideo = function(videoId) {
   const cinemaDesc = document.querySelector(".cinema-desc");
   if (cinemaDesc) cinemaDesc.textContent = targetVideo.description || "";
 
+  // Tampilkan tombol kembali ke video sinematik utama
+  const backBtn = document.getElementById("back-to-featured-video");
+  if (backBtn) backBtn.hidden = false;
+
   // Scroll ke player
+  playerWrapper.scrollIntoView({ behavior: "smooth", block: "center" });
+};
+
+/**
+ * Mengembalikan player utama ke video sinematik (featured)
+ */
+window.playFeaturedVideo = function() {
+  if (typeof videos === "undefined" || !Array.isArray(videos)) return;
+
+  const featured = videos.find(v => v.isFeatured) || videos[0];
+  if (!featured) return;
+
+  const playerWrapper = document.querySelector(".video-player-wrapper");
+  if (!playerWrapper) return;
+
+  const playerHtml = buildVideoPlayerHtml(featured, { autoplay: false });
+  if (playerHtml) {
+    playerWrapper.innerHTML = playerHtml;
+    bindVideoAudioCoordination();
+  }
+
+  // Kembalikan judul & deskripsi ke video utama
+  const cinemaTitle = document.querySelector(".cinema-title");
+  if (cinemaTitle) cinemaTitle.textContent = featured.title;
+
+  const cinemaDesc = document.querySelector(".cinema-desc");
+  if (cinemaDesc) cinemaDesc.textContent = featured.description || "";
+
+  // Sembunyikan tombol kembali karena sudah di video utama
+  const backBtn = document.getElementById("back-to-featured-video");
+  if (backBtn) backBtn.hidden = true;
+
   playerWrapper.scrollIntoView({ behavior: "smooth", block: "center" });
 };
 
