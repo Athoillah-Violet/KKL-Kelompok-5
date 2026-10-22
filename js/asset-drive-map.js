@@ -26,4 +26,41 @@ const assetDriveMap = {
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
   "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/1EJNtz7RzfQOhvv-Y1GbKPBntprqteCG_/view?usp=sharing",
   // "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/1WAfqM-sdveQojpmrn6pHuAsSCfKmLOf6/view?usp=sharing",
+
+// // Destinations[cite: 2]
+//     "assets/images/destinations/IMG_5102.HEIC": "",[cite: 2]
+//     "assets/images/destinations/IMG_5331.JPG.jpeg": "",[cite: 2]
+//     "assets/images/destinations/IMG_5483.HEIC": "",[cite: 2]
+//     "assets/images/destinations/penglipuran-sub1.jpg": "",[cite: 2]
+//     "assets/images/destinations/penglipuran-sub2.jpg": "",[cite: 2]
+//     "assets/images/destinations/penglipuran.jpg": "",[cite: 2]
+//     "assets/images/destinations/tanah-lot-sub1.jpg": "",[cite: 2]
+//     "assets/images/destinations/tanah-lot-sub2.jpg": "",[cite: 2]
+//     "assets/images/destinations/tanah-lot.jpg": "",[cite: 2]
+//     "assets/images/destinations/tegalalang-sub1.jpg": "",[cite: 2]
+//     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
+//     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
+
+//     // Group[cite: 2]
+//     "assets/images/group/group-portrait.jpg": "",[cite: 2]
+
+//     // Hero[cite: 2]
+//     "assets/images/hero/hero-cover.jpg": "",[cite: 2]
+
+//     // Industry[cite: 2]
+//     "assets/images/industry/coffee-roastery.jpg": "",[cite: 2]
+//     "assets/images/industry/coffee-sub1.jpg": "",[cite: 2]
+//     "assets/images/industry/coffee-sub2.jpg": "",[cite: 2]
+//     "assets/images/industry/creative-industry.jpg": "",[cite: 2]
+//     "assets/images/industry/creative-sub1.jpg": "",[cite: 2]
+//     "assets/images/industry/creative-sub2.jpg": "",[cite: 2]
+
+//     // Moments[cite: 2]
+//     "assets/images/moments/moment-01.jpg": "",[cite: 2]
+//     "assets/images/moments/moment-02.jpg": "",[cite: 2]
+//     "assets/images/moments/moment-03.jpg": "",[cite: 2]
+//     "assets/images/moments/moment-04.jpg": "",[cite: 2]
+//     "assets/images/moments/moment-05.jpg": "",[cite: 2]
+//     "assets/images/moments/moment-06.jpg": "",[cite: 2]
+
 };
