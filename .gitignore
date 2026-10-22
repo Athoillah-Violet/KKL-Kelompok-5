@@ -1,0 +1,8 @@
+# Media besar — host di Google Drive, mapping di js/asset-drive-map.js
+assets/audio/
+assets/videos/
+assets/images/
+
+# OS / editor
+.DS_Store
+Thumbs.db
