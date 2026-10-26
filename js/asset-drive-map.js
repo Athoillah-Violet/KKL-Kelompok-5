@@ -40,6 +40,8 @@ const assetDriveMap = {
     "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1XdfS6cF4RKXXshYU1gzNUSKk1g9Stq3z/view?usp=drive_link",
     
     "assets/images/destinations/tanah-lot-sub1.jpg": "https://drive.google.com/file/d/1ARVbPsgNRxvpahlqR7HlRXBhI94NYb9o/view?usp=drive_link",
+    "assets/images/destinations/tanah-lot-sub2.jpg": "https://drive.google.com/file/d/1pwb3vWUpsH51SvgT_S3eyexFYzHUWsEJ/view?usp=drive_linkk",
+//    
 //     "assets/images/destinations/tegalalang-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
