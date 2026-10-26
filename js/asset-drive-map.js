@@ -44,14 +44,15 @@ const assetDriveMap = {
    "assets/images/destinations/devdan.jpg":"https://drive.google.com/file/d/1kOwpJBNG-FUYUk2MExLz8b98WtSx-x5P/view?usp=drive_link",
    "assets/images/destinations/devdan2.jpg":"https://drive.google.com/file/d/1L4NxZ31tdz0a0ClkMO8vAgH4i5T3Qhf1/view?usp=drive_link",
    "assets/images/destinations/devdan3.jpg":"https://drive.google.com/file/d/1nRXihZmKL1KI__OchhTeZP8qfNg_T5uC/view?usp=drive_link",
+   "assets/images/destinations/devdan4.jpg":"https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
 //     "assets/images/destinations/tegalalang-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
 
     // Destinasi tambahan (wisata-04 s/d wisata-06) — tempel link Drive di sini
-    "assets/images/destinations/beratan.jpg": "",
-    "assets/images/destinations/beratan-sub1.jpg": "",
-    "assets/images/destinations/beratan-sub2.jpg": "",
+    "assets/images/destinations/kuta.jpg": "https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
+    "assets/images/destinations/kuta1.jpg": "https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
+    "assets/images/destinations/kuta2.jpg": "https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
     "assets/images/destinations/uluwatu.jpg": "",
     "assets/images/destinations/uluwatu-sub1.jpg": "",
     "assets/images/destinations/uluwatu-sub2.jpg": "",

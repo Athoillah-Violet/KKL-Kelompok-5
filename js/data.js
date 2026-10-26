@@ -203,7 +203,7 @@ const destinations = [
         caption: "Kerapian petak-petak padi yang terairi sempurna lewat kearifan sistem Subak."
       },
       {
-        src: "assets/images/destinations/tegalalang-sub2.jpg",
+        src: "assets/images/destinations/devdan4.jpg",
         alt: "Pondok kayu di tengah sawah",
         caption: "Gubuk peristirahatan petani lokal di tengah hamparan padi yang mulai menghijau."
       }
@@ -212,26 +212,26 @@ const destinations = [
   {
     id: "wisata-03",
     category: "wisata",
-    title: "Desa Adat Tradisional Penglipuran",
-    location: "Bangli, Bali",
+    title: "Pesona Keindahan dan Legenda Sunset Pantai Kuta",
+    location: "Badung, Bali",
     badge: "Desa Budaya Terbersih",
-    description: "Desa adat yang terkenal dengan kebersihannya di kancah dunia. Deretan gerbang rumah khas Bali (Angkul-Angkul) berdiri simetris sepanjang jalan setapak batu alam yang bebas dari asap kendaraan bermotor.",
-    experience: "Warga desa menyambut kami dengan senyuman ramah dan membuka pintu pekarangan rumah mereka untuk berbagi kisah filosofi arsitektur tradisional dan pelestarian hutan bambu.",
+    description: "Pantai ikonik di Bali yang terkenal di kancah dunia dengan hamparan pasir putih luas serta ombak yang sempurna untuk berselancar. Menawarkan panorama matahari terbenam (sunset) yang memukau dan suasana pantai yang selalu hidup setiap hari.",
+     experience: "Suasana sore hari di Pantai Kuta selalu memberikan ketenangan tersendiri, menikmati deburan ombak sambil menyaksikan langit perlahan berubah menjadi jingga keemasan.",
     cover: "assets/images/destinations/penglipuran.jpg",
     coverAlt: "Jalan utama Desa Adat Penglipuran yang bersih dan tertata",
     photos: [
       {
-        src: "assets/images/destinations/penglipuran.jpg",
+        src: "assets/images/destinations/kuta.jpg",
         alt: "Jalan utama Penglipuran",
         caption: "Lorong asri Desa Penglipuran dihiasi bunga kamboja dan arsitektur bata merah seragam."
       },
       {
-        src: "assets/images/destinations/penglipuran-sub1.jpg",
+        src: "assets/images/destinations/kuta1.jpg",
         alt: "Detail gerbang angkul-angkul",
         caption: "Gerbang pekarangan tradisional bernuansa kayu sirap dan ornamen ukiran Bali."
       },
       {
-        src: "assets/images/destinations/penglipuran-sub2.jpg",
+        src: "assets/images/destinations/kuta2.jpg",
         alt: "Pekarangan warga Penglipuran",
         caption: "Kesejukan ruang terbuka hijau di dalam lingkungan perumahan adat Bangli."
       }
