@@ -554,7 +554,7 @@ const teamMembers = [
   {
     id: "member-03",
     number: "03",
-    name: "Mifgha Hanif Syahputra",
+    name: "Mifgha Hanif Syahputra (24670078)",
     role: "Lord Editor",
     quote: ".Aku besar bukan karena keinginan, tapi karena itulah pencapaian",
     photo: "assets/images/members/member-03.jpg",
@@ -639,7 +639,7 @@ const teamMembers = [
 const groupPortrait = {
   src: "assets/images/group/group-portrait.jpg",
   alt: "Foto bersama seluruh 10 anggota kelompok KKL di Bali",
-  caption: "Sepuluh jiwa, ribuan kilometer, dan satu ikatan persahabatan yang abadi di Pulau Dewata."
+  caption: "Bersatu kita teguh bercerai kita kawin lagi. (Gubernur Kalimantan Tengah H. Agustiar Sabran, S.I.Kom.)"
 };
 
 /**
