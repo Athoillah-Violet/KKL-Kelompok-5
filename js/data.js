@@ -564,9 +564,9 @@ const teamMembers = [
   {
     id: "member-04",
     number: "04",
-    name: "Imah Nur Aini",
+    name: "IMAH NURAINI (24670024)",
     role: "Koordinator Dokumentasi & Foto",
-    quote: "Membekukan detik berharga dalam bingkai lensa agar tak lekang tergerus waktu.",
+    quote: "Jalan-jalan adalah aku, aku aadlah Jalan-jalan.",
     photo: "assets/images/members/member-04.jpg",
     alt: "Potret Anggota 04 - Fotografer",
     imagePosition: "center 20%"
@@ -574,8 +574,8 @@ const teamMembers = [
   {
     id: "member-05",
     number: "05",
-    name: "[Nama Anggota 05]",
-    role: "Videografer & Editor Media",
+    name: "Nazlia Intani R.E (24670019)",
+    role: "Dokumentasi Laporan",
     quote: "Setiap senyuman dan canda tawa adalah potongan adegan dari film perjalanan terindah kita.",
     photo: "assets/images/members/member-05.jpg",
     alt: "Potret Anggota 05 - Videografer",
@@ -584,8 +584,8 @@ const teamMembers = [
   {
     id: "member-06",
     number: "06",
-    name: "[Nama Anggota 06]",
-    role: "Humas & Relasi Industri",
+    name: "Samrina Muharditami (24670139)",
+    role: "Laporan Builder",
     quote: "Menghubungkan ruang kelas dengan realitas dunia kerja adalah pengalaman yang membuka mata.",
     photo: "assets/images/members/member-06.jpg",
     alt: "Potret Anggota 06 - Humas",
@@ -594,8 +594,8 @@ const teamMembers = [
   {
     id: "member-07",
     number: "07",
-    name: "[Nama Anggota 07]",
-    role: "Akomodasi & Transportasi",
+    name: "Farid Nur Ilham (24670054)",
+    role: "Lord Treveler",
     quote: "Jalanan berliku Bali mengajarkan kami arti kesabaran dan kebersamaan di sepanjang rute.",
     photo: "assets/images/members/member-07.jpg",
     alt: "Potret Anggota 07 - Akomodasi",
@@ -614,7 +614,7 @@ const teamMembers = [
   {
     id: "member-09",
     number: "09",
-    name: "[Nama Anggota 09]",
+    name: "Muh toha mahfudz (24670113)",
     role: "Penyusun Laporan Akademik",
     quote: "Data dan wawasan yang kami dapatkan di Bali adalah bekal nyata untuk masa depan profesional kami.",
     photo: "assets/images/members/member-09.jpg",
@@ -624,7 +624,7 @@ const teamMembers = [
   {
     id: "member-10",
     number: "10",
-    name: "[Nama Anggota 10]",
+    name: "Okta ",
     role: "Kreatif & Publikasi Publik",
     quote: "Perjalanan ini usai, namun tali persaudaraan sepuluh orang ini akan terus berlanjut.",
     photo: "assets/images/members/member-10.jpg",
