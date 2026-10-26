@@ -37,7 +37,9 @@ const assetDriveMap = {
     "assets/images/destinations/penglipuran.jpg": "https://drive.google.com/file/d/1kOwpJBNG-FUYUk2MExLz8b98WtSx-x5P/view?usp=drive_link",
 //     "assets/images/destinations/tanah-lot-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tanah-lot-sub2.jpg": "",[cite: 2]
-    "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1L4NxZ31tdz0a0ClkMO8vAgH4i5T3Qhf1/view?usp=drive_link",
+    "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1XdfS6cF4RKXXshYU1gzNUSKk1g9Stq3z/view?usp=drive_link",
+    
+    "assets/images/destinations/tanah-lot-sub1.jpg": "https://drive.google.com/file/d/1ARVbPsgNRxvpahlqR7HlRXBhI94NYb9o/view?usp=drive_link",
 //     "assets/images/destinations/tegalalang-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]

@@ -156,10 +156,10 @@ const destinations = [
   {
     id: "wisata-01",
     category: "wisata",
-    title: "candi kuning bedugul",
+    title: "Candi Kuning Bedugul",
     location: "Tabanan, Bali",
     badge: "Heritage & Landscape",
-    description: "Pura legendaris yang bertakhta di atas bongkahan batu karang pesisir samudra Hindia. Di tempat ini kami menyaksikan perpaduan magis antara deburan ombak, ritual budaya sakral, dan siluet matahari terbenam yang memukau mata.",
+    description: "Candikuning adalah sebuah desa wisata di dataran tinggi Bedugul, Bali, yang terkenal dengan udaranya yang sejuk, agrowisata yang subur, dan ikon terkenal seperti pura tepi danau Pura Ulun Danu Beratan. Desa ini menjadi pusat wisata utama yang menyediakan Pasar Candi Kuning (terkenal dengan stroberi segar dan rempah-rempah) serta Kebun Raya Bali yang sangat luas.",
     experience: "Menjelang sore, saat air laut mulai pasang, hembusan angin samudra dan langit jingga menjadi latar paling syahdu untuk merefleksikan kebersamaan kami selama di perantauan.",
     cover: "assets/images/destinations/tanah-lot.jpg",
     coverAlt: "Pura Tanah Lot dengan deburan ombak senja",
