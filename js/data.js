@@ -156,7 +156,7 @@ const destinations = [
   {
     id: "wisata-01",
     category: "wisata",
-    title: "Pura Tanah Lot & Karang Samudra",
+    title: "candi kuning bedugul",
     location: "Tabanan, Bali",
     badge: "Heritage & Landscape",
     description: "Pura legendaris yang bertakhta di atas bongkahan batu karang pesisir samudra Hindia. Di tempat ini kami menyaksikan perpaduan magis antara deburan ombak, ritual budaya sakral, dan siluet matahari terbenam yang memukau mata.",
