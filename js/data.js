@@ -534,9 +534,9 @@ const teamMembers = [
   {
     id: "member-01",
     number: "01",
-    name: "[Nama Anggota 01]", // [Placeholder] Ganti dengan nama lengkap anggota
-    role: "Ketua Kelompok & Koordinator",
-    quote: "Perjalanan terbaik bukan tentang seberapa jauh jaraknya, tapi tentang siapa yang melangkah bersama kita.",
+    name: "Ahmad Athoillah Almadany (24670012)", // [Placeholder] Ganti dengan nama lengkap anggota
+    role: "Web Develop",
+    quote: "saat kau mau mencariku, temui aku di rassa sesalmu, Adios....",
     photo: "assets/images/members/member-01.jpg",
     alt: "Potret Anggota 01 - Ketua Kelompok",
     imagePosition: "center 20%" // Pengaturan posisi foto jika diperlukan
@@ -544,9 +544,9 @@ const teamMembers = [
   {
     id: "member-02",
     number: "02",
-    name: "[Nama Anggota 02]",
-    role: "Sekretaris & Administrasi",
-    quote: "Di setiap lembar catatan dan izin perjalanan, terselip cerita kekeluargaan yang tak tergantikan.",
+    name: "M.Rafisyach.A.S (24670130)",
+    role: "Pengacara",
+    quote: "Jika HTML perlu CSS, maka aku perlu minum ES.",
     photo: "assets/images/members/member-02.jpg",
     alt: "Potret Anggota 02 - Sekretaris",
     imagePosition: "center 20%"
@@ -554,9 +554,9 @@ const teamMembers = [
   {
     id: "member-03",
     number: "03",
-    name: "[Nama Anggota 03]",
-    role: "Bendahara & Manajemen Logistik",
-    quote: "Menjaga ritme dan kebutuhan tim mengajari kami arti kepedulian di tengah riuhnya perjalanan.",
+    name: "Mifgha Hanif Syahputra",
+    role: "Lord Editor",
+    quote: ".Aku besar bukan karena keinginan, tapi karena itulah pencapaian",
     photo: "assets/images/members/member-03.jpg",
     alt: "Potret Anggota 03 - Bendahara",
     imagePosition: "center 20%"
@@ -564,7 +564,7 @@ const teamMembers = [
   {
     id: "member-04",
     number: "04",
-    name: "[Nama Anggota 04]",
+    name: "Imah Nur Aini",
     role: "Koordinator Dokumentasi & Foto",
     quote: "Membekukan detik berharga dalam bingkai lensa agar tak lekang tergerus waktu.",
     photo: "assets/images/members/member-04.jpg",
@@ -604,9 +604,9 @@ const teamMembers = [
   {
     id: "member-08",
     number: "08",
-    name: "[Nama Anggota 08]",
+    name: "M.Rafisyach.A.S (24670130)",
     role: "Koordinator Lapangan & Keselamatan",
-    quote: "Memastikan semua anggota pulang dengan selamat, membawa ilmu baru, dan kenangan berharga.",
+    quote: "Aku sepertinya bukan karena penampilannya, tapi karena akulah dirinya.",
     photo: "assets/images/members/member-08.jpg",
     alt: "Potret Anggota 08 - Korlap",
     imagePosition: "center 20%"
