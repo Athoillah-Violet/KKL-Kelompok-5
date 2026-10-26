@@ -157,7 +157,7 @@ const destinations = [
     id: "wisata-01",
     category: "wisata",
     title: "Candi Kuning Bedugul",
-    location: "Tabanan, Bali",
+    location: "Candikuning, Baturiti, Tabanan, Bali",
     badge: "Heritage & Landscape",
     description: "Candikuning adalah sebuah desa wisata di dataran tinggi Bedugul, Bali, yang terkenal dengan udaranya yang sejuk, agrowisata yang subur, dan ikon terkenal seperti pura tepi danau Pura Ulun Danu Beratan. Desa ini menjadi pusat wisata utama yang menyediakan Pasar Candi Kuning (terkenal dengan stroberi segar dan rempah-rempah) serta Kebun Raya Bali yang sangat luas.",
     experience: "Menjelang sore, saat air laut mulai pasang, hembusan angin samudra dan langit jingga menjadi latar paling syahdu untuk merefleksikan kebersamaan kami selama di perantauan.",
@@ -184,21 +184,21 @@ const destinations = [
   {
     id: "wisata-02",
     category: "wisata",
-    title: "Terasering Sawah Tegalalang Ubud",
-    location: "Ubud, Gianyar, Bali",
+    title: "Devdan Show: Treasure of the Archipelago",
+    location: "Lot BC, Benoa, Kuta Selatan, Badung, Bali",
     badge: "Agrikultur & Subak",
-    description: "Hamparan sawah berundak bertingkat-tingkat yang dibangun dengan sistem tata air tradisional Subak warisan leluhur Bali. Hawa sejuk pedalaman Ubud dan jajaran pohon kelapa tropis menghadirkan ketenangan yang luar biasa.",
-    experience: "Berjalan menyusuri pematang sawah yang sempit menuntut kehati-hatian sekaligus gelak tawa ketika salah satu dari kami hampir terpeleset ke parit lumpur.",
-    cover: "assets/images/destinations/tegalalang.jpg",
+    description: "Pertunjukan teater pemenang penghargaan ini mengemas keberagaman budaya Nusantara—mulai dari Bali, Jawa, Sumatera, Kalimantan, hingga Papua—menjadi satu mahakarya spektakuler. Gak cuma tarian tradisional, kamu bakal dibuat takjub sama kombinasi akrobat udara kelas dunia, tarian modern hip-hop, atraksi api, hingga efek visual megah hujan di dalam ruangan! ",
+    experience: "Menemukan Indonesia dalam satu malam, merayakan keberagaman dalam satu panggung. Devdan adalah bukti bahwa perbedaan adalah anugerah terindah.",
+    cover: "assets/images/destinations/devdan.jpg",
     coverAlt: "Terasering Tegalalang Ubud berkilau cahaya matahari pagi",
     photos: [
       {
-        src: "assets/images/destinations/tegalalang.jpg",
+        src: "assets/images/destinations/devdan2.jpg",
         alt: "Terasering Tegalalang Ubud",
         caption: "Lanskap berundak Tegalalang dengan sorot sinar pagi menembus dedaunan kelapa."
       },
       {
-        src: "assets/images/destinations/tegalalang-sub1.jpg",
+        src: "assets/images/destinations/devdan3.jpg",
         alt: "Petak sawah bertingkat",
         caption: "Kerapian petak-petak padi yang terairi sempurna lewat kearifan sistem Subak."
       },
@@ -624,7 +624,7 @@ const teamMembers = [
   {
     id: "member-10",
     number: "10",
-    name: "Okta ",
+    name: "Muhammad Okta Ramadhani (24670016) ",
     role: "Kreatif & Publikasi Publik",
     quote: "Perjalanan ini usai, namun tali persaudaraan sepuluh orang ini akan terus berlanjut.",
     photo: "assets/images/members/member-10.jpg",

@@ -41,7 +41,9 @@ const assetDriveMap = {
     
     "assets/images/destinations/tanah-lot-sub1.jpg": "https://drive.google.com/file/d/1ARVbPsgNRxvpahlqR7HlRXBhI94NYb9o/view?usp=drive_link",
     "assets/images/destinations/tanah-lot-sub2.jpg": "https://drive.google.com/file/d/1pwb3vWUpsH51SvgT_S3eyexFYzHUWsEJ/view?usp=drive_linkk",
-//    
+   "assets/images/destinations/devdan.jpg":"https://drive.google.com/file/d/1kOwpJBNG-FUYUk2MExLz8b98WtSx-x5P/view?usp=drive_link",
+   "assets/images/destinations/devdan2.jpg":"https://drive.google.com/file/d/1L4NxZ31tdz0a0ClkMO8vAgH4i5T3Qhf1/view?usp=drive_link",
+   "assets/images/destinations/devdan3.jpg":"https://drive.google.com/file/d/1nRXihZmKL1KI__OchhTeZP8qfNg_T5uC/view?usp=drive_link",
 //     "assets/images/destinations/tegalalang-sub1.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
