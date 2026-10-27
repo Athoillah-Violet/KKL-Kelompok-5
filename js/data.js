@@ -245,20 +245,21 @@ const destinations = [
     badge: "PANTAI & BAHARIs",
     description: "Pantai megah yang tersembunyi di balik tebing kapur tinggi dengan ukiran lima patung Ksatria Pandawa. Memiliki pasir putih bersih dan air laut yang tenang, sangat cocok untuk berenang mau pun bermain kano.",
     experience:"Menyusuri jalan di antara tebing tinggi menuju pantai memberikan kesan yang megah, disempurnakan dengan pemandangan air laut biru jernih yang memanjakan mata.", cover: "assets/images/destinations/beratan.jpg",
+    cover: "assets/images/destinations/pandawa.jpg",
     coverAlt: "Pantai Pandawa",
     photos: [
       {
-        src: "assets/images/destinations/pandawa.jpg",
+        src: "assets/images/destinations/pandawa1.jpg",
         alt: "Pura Ulun Danu Beratan di tepi danau",
         caption: "Bangunan pura berundak yang menapak di tepi Danau Beratan berlatar perbukitan hijau."
       },
       {
-        src: "assets/images/destinations/pandawa-sub1.jpg",
+        src: "assets/images/destinations/pandawa2.jpg",
         alt: "Kabut pagi di atas Danau Beratan",
         caption: "Selimut kabut tipis menyapa permukaan danau saat pagi mulai menyingsing."
       },
       {
-        src: "assets/images/destinations/pandawa-sub2.jpg",
+        src: "assets/images/destinations/pandawa3.jpg",
         alt: "Taman tepi danau Beratan",
         caption: "Taman bunga yang tertata rapi menuntun langkah menuju pelataran pura."
       }
