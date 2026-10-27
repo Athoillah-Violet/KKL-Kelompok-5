@@ -668,12 +668,12 @@ const closingConfig = {
       caption: "Cakrawala emas di pesisir Tanah Lot"
     },
     {
-      src: "assets/images/destinations/tegalalang.jpg",
+      src: "https://drive.google.com/file/d/1lnzwGOQtsat7wcs-G9Y68_XLr2hAkJUm/view?usp=drive_link",
       alt: "Terasering hijau Tegalalang",
       caption: "Harmoni hijau padi di Ubud"
     },
     {
-      src: "assets/images/industry/coffee-roastery.jpg",
+      src: "https://drive.google.com/file/d/1nRXihZmKL1KI__OchhTeZP8qfNg_T5uC/view?usp=drive_link",
       alt: "Pembelajaran kopi di Kintamani",
       caption: "Wawasan proses agroindustri Kintamani"
     }
