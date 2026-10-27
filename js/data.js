@@ -123,7 +123,7 @@ const journeyOverview = [
     title: "Walcome to Bali",
     location: "Gianyar / Denpasar",
     description: "Awal perjalanan elihat keindahan candi, belanja di JOGER dan melihat pertujjukan di devdane show.",
-    photo: "haei2.jpg",
+    photo: "hari2.jpg",
     alt: "Kunjungan industri kreatif Bali"
   },
   {
