@@ -25,14 +25,15 @@ const assetDriveMap = {
   "assets/images/group/group-portrait.jpg": "https://drive.google.com/file/d/1eiSoXVw_ntBDAktnf-_rap25xN2FVzec/view?usp=drive_link",
   "assets/images/hero/hero-cover.jpg": "https://drive.google.com/file/d/1AScO6dkCK7cTWLajR-Row0i8Ib9i4iVr/view?usp=drive_link",
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
-  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/1pdytMqBm-K-HVYQHdtEtBeQoHIm3LbEH/view?usp=sharing",
+  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/14NW8FPllK-QU3PS9rMyFJlMU4VPOpAUl/view?usp=sharing",
   "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/1WAfqM-sdveQojpmrn6pHuAsSCfKmLOf6/view?usp=sharing",
-
+    // Tentang Perjalanan kami
+    "assets/images/industry/creative-industry.jpg" : "https://drive.google.com/file/d/1LqyPp7xavoJ7eIwMZKhYKvZ4sBw8oI4q/view?usp=drive_link",
+    "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1XdfS6cF4RKXXshYU1gzNUSKk1g9Stq3z/view?usp=drive_link",
 // // Destinations[cite: 2]
     "assets/images/destinations/penglipuran-sub1.jpg": "",
     "assets/images/destinations/penglipuran.jpg": "https://drive.google.com/file/d/1kOwpJBNG-FUYUk2MExLz8b98WtSx-x5P/view?usp=drive_link",
-    
-    "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1XdfS6cF4RKXXshYU1gzNUSKk1g9Stq3z/view?usp=drive_link",
+
     "assets/images/destinations/tanah-lot-sub1.jpg": "https://drive.google.com/file/d/1ARVbPsgNRxvpahlqR7HlRXBhI94NYb9o/view?usp=drive_link",
     "assets/images/destinations/tanah-lot-sub2.jpg": "https://drive.google.com/file/d/1pwb3vWUpsH51SvgT_S3eyexFYzHUWsEJ/view?usp=drive_linkk",
     // devdan
