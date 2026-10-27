@@ -71,6 +71,9 @@ const assetDriveMap = {
     "assets/images/destinations/jimbaran-sub3.jpg": "https://drive.google.com/file/d/1ytl9lhP_noHuRkcTyqbyXtr1f7El-fRu/view?usp=drive_link",
 // keberangkatan
     "keberangkatan.jpg": "https://drive.google.com/file/d/1KZxjHLp8tCsZ-vYG842EuZWKsfUDbntN/view?usp=drive_link",
+    // hari2
+    
+    "hari2.jpg": "https://drive.google.com/file/d/1qh8m6Tt-3VQg8wKP8S_9xbb4OAB9qus2/view?usp=drive_link",
 //     // Industry[cite: 2]
 //     "assets/images/industry/coffee-roastery.jpg": "",
 //     "assets/images/industry/coffee-sub1.jpg": "",[cite: 2]

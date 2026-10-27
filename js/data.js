@@ -119,11 +119,11 @@ const journeyOverview = [
   {
     dayNumber: "02",
     dayLabel: "Hari 02",
-    date: "[Tanggal Hari 02]", // [Placeholder]
-    title: "Kunjungan Industri Kreatif & Craftsmanship",
+    date: "[19 / Agustus / 2026]", // [Placeholder]
+    title: "Walcome to Bali",
     location: "Gianyar / Denpasar",
-    description: "Mempelajari manajemen rantai pasok industri kreatif cinderamata, strategi branding pariwisata, dan teknik produksi modern.",
-    photo: "assets/images/industry/creative-industry.jpg",
+    description: "Awal perjalanan elihat keindahan candi, belanja di JOGER dan melihat pertujjukan di devdane show.",
+    photo: "haei2.jpg",
     alt: "Kunjungan industri kreatif Bali"
   },
   {
