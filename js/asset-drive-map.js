@@ -25,7 +25,7 @@ const assetDriveMap = {
   "assets/images/group/group-portrait.jpg": "https://drive.google.com/file/d/1eiSoXVw_ntBDAktnf-_rap25xN2FVzec/view?usp=drive_link",
   "assets/images/hero/hero-cover.jpg": "https://drive.google.com/file/d/1AScO6dkCK7cTWLajR-Row0i8Ib9i4iVr/view?usp=drive_link",
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
-  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/14NW8FPllK-QU3PS9rMyFJlMU4VPOpAUl/view?usp=drive_link",
+  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/14NW8FPllK-QU3PS9rMyFJlMU4VPOpAUl/view?usp=sharing",
   "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/1WAfqM-sdveQojpmrn6pHuAsSCfKmLOf6/view?usp=sharing",
 
 // // Destinations[cite: 2]
