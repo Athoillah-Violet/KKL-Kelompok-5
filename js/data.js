@@ -214,7 +214,7 @@ const destinations = [
     category: "wisata",
     title: "Pesona Keindahan dan Legenda Sunset Pantai Kuta",
     location: "Badung, Bali",
-    badge: "Desa Budaya Terbersih",
+    badge: "Pantai Wisata",
     description: "Pantai ikonik di Bali yang terkenal di kancah dunia dengan hamparan pasir putih luas serta ombak yang sempurna untuk berselancar. Menawarkan panorama matahari terbenam (sunset) yang memukau dan suasana pantai yang selalu hidup setiap hari.",
      experience: "Suasana sore hari di Pantai Kuta selalu memberikan ketenangan tersendiri, menikmati deburan ombak sambil menyaksikan langit perlahan berubah menjadi jingga keemasan.",
     cover: "assets/images/destinations/kuta.jpg",
@@ -240,26 +240,25 @@ const destinations = [
   {
     id: "wisata-04",
     category: "wisata",
-    title: "Pura Ulun Danu Beratan",
-    location: "Bedugul, Tabanan, Bali",
-    badge: "Danau & Spiritualitas",
-    description: "Pura air yang mengapung anggun di atas permukaan Danau Beratan, dikelilingi kabut sejuk dataran tinggi Bedugul. Bangunan berundak yang menjulang di tepi danau menghadirkan nuansa tenang sekaligus sakral bagi siapa pun yang memandangnya.",
-    experience: "Suasana pagi di tepi danau terasa begitu hening; kami menikmati embusan udara pegunungan sambil mengabadikan siluet pura yang memantul lembut di atas air.",
-    cover: "assets/images/destinations/beratan.jpg",
-    coverAlt: "Pura Ulun Danu Beratan berdiri di tepi Danau Beratan yang tenang",
+    title: "Eksotisme Tebing Kapur dan Pesona Pantai Pandawa",
+    location: "Kuta Selatan, Badung, Bali",
+    badge: "PANTAI & BAHARIs",
+    description: "Pantai megah yang tersembunyi di balik tebing kapur tinggi dengan ukiran lima patung Ksatria Pandawa. Memiliki pasir putih bersih dan air laut yang tenang, sangat cocok untuk berenang mau pun bermain kano.",
+    experience:"Menyusuri jalan di antara tebing tinggi menuju pantai memberikan kesan yang megah, disempurnakan dengan pemandangan air laut biru jernih yang memanjakan mata.", cover: "assets/images/destinations/beratan.jpg",
+    coverAlt: "Pantai Pandawa",
     photos: [
       {
-        src: "assets/images/destinations/beratan.jpg",
+        src: "assets/images/destinations/pandawa.jpg",
         alt: "Pura Ulun Danu Beratan di tepi danau",
         caption: "Bangunan pura berundak yang menapak di tepi Danau Beratan berlatar perbukitan hijau."
       },
       {
-        src: "assets/images/destinations/beratan-sub1.jpg",
+        src: "assets/images/destinations/pandawa-sub1.jpg",
         alt: "Kabut pagi di atas Danau Beratan",
         caption: "Selimut kabut tipis menyapa permukaan danau saat pagi mulai menyingsing."
       },
       {
-        src: "assets/images/destinations/beratan-sub2.jpg",
+        src: "assets/images/destinations/pandawa-sub2.jpg",
         alt: "Taman tepi danau Beratan",
         caption: "Taman bunga yang tertata rapi menuntun langkah menuju pelataran pura."
       }
