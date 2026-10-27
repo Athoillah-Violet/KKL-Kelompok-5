@@ -77,10 +77,7 @@ const assetDriveMap = {
 "indistri13" : "https://drive.google.com/file/d/1Vy6lvRNLr-dc8C4WNRsBn8BDB5UvopyA/view?usp=drive_link",
 "indistri1" : "https://drive.google.com/file/d/1wd5YGQXoAaTUJzW6NcJnYMIl2A93pdPl/view?usp=drive_link",
 
-"BDI-roastery.jpg" : "https://drive.google.com/file/d/1Py6-JRISrP7uyL3Y19e67jJk9YGzvAQW/view?usp=drive_link",
-"BDI-roastery.jpg" : "",
-"BDI-sub1.jpg" : "",
-"BDI-sub2.jpg" : "",
+
 
 
 

@@ -394,7 +394,7 @@ const industrialVisits = [
       "Mekanisme sertifikasi kompetensi resmi untuk memastikan daya saing lulusan di dunia kerja."
     ],
   
-    cover: "BDI-roastery.jpg",
+    cover: "https://drive.google.com/file/d/1Py6-JRISrP7uyL3Y19e67jJk9YGzvAQW/view?usp=drive_link",
     coverAlt: "Sesi edukasi pengolahan kopi berlatar panorama Gunung Batur",
     photos: [
       {
