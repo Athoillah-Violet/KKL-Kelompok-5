@@ -269,7 +269,7 @@ const destinations = [
     id: "wisata-05",
     category: "wisata",
     title: "Magisnya Pementasan Tari Kecak Berlatar Sunset Pantai Pandawa",
-    location: "Kuta Selatan, Badung, Bali",
+    location: "Jimbaran, Badung, Bali",
     badge: "Pura Tebing & Samudra",
     description:  "Pertunjukan seni tradisional Bali yang ikonik dengan paduan suara puluhan penari pria tanpa baju meneriakkan 'cak!', dipentaskan di panggung terbuka di atas tebing dengan latar belakang pemandangan matahari terbenam yang spektakuler di atas Samudra Hindia.", 
      experience: "Suara koor 'cak cak cak' yang bergemuruh berpadu sempurna dengan deburan ombak dan langit senja yang dramatis, menciptakan pengalaman magis yang tak terlupakan.",
@@ -296,26 +296,26 @@ const destinations = [
   {
     id: "wisata-06",
     category: "wisata",
-    title: "Kintamani & Panorama Gunung Batur",
-    location: "Kintamani, Bangli, Bali",
+    title: "Sensasi Kuliner Seafood Malam Hari di Tepi Pantai Jimbaran",
+    location: "Jimbaran, Badung, Bali",
     badge: "Vulkanik & Pemandangan",
-    description: "Kawasan dataran tinggi yang menyuguhkan pemandangan Gunung Batur berdiri gagah di sisi kaldera luas. Udara sejuk pegunungan, hamparan bukit vulkanik, dan kedamaian danau di bawahnya menghadirkan lanskap yang berbeda dari pesisir Bali.",
-    experience: "Sarapan hangat di tepi kaldera sambil memandang kontur Gunung Batur menjadi pembuka hari yang tak terlupakan bagi seluruh anggota kelompok.",
-    cover: "assets/images/destinations/kintamani.jpg",
+    description: "Pengalaman makan malam romantis di atas hamparan pasir putih Pantai Jimbaran dengan deretan meja berhiaskan lilin. Menikmati hidangan seafood segar bakar khas Bali sambil ditemani deburan ombak malam dan alunan musik akustik.",
+    experience: "Menikmati santap malam beralaskan pasir pantai di bawah temaram cahaya lilin, ditemani hidangan laut lezat dengan panorama malam teluk yang tenang.",
+    cover: "assets/images/destinations/jimbaran.jpg",
     coverAlt: "Panorama Gunung Batur dari dataran tinggi Kintamani",
     photos: [
       {
-        src: "assets/images/destinations/kintamani.jpg",
+        src: "assets/images/destinations/jimbaran.jpg",
         alt: "Panorama Gunung Batur Kintamani",
         caption: "Siluet Gunung Batur yang tegas berlatar langit biru dataran tinggi Kintamani."
       },
       {
-        src: "assets/images/destinations/kintamani-sub1.jpg",
+        src: "assets/images/destinations/jimbaran-sub1.jpg",
         alt: "Kaldera dan danau Batur",
         caption: "Hamparan kaldera vulkanik dengan Danau Batur yang membentang tenang di bawahnya."
       },
       {
-        src: "assets/images/destinations/kintamani-sub2.jpg",
+        src: "assets/images/destinations/jimbaran-sub2.jpg",
         alt: "Pemandangan bukit di Kintamani",
         caption: "Perbukitan hijau dan jalan berkelok yang membelah kawasan pegunungan Bangli."
       }

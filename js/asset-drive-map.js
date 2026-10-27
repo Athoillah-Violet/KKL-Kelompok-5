@@ -55,8 +55,8 @@ const assetDriveMap = {
     "assets/images/destinations/kuta2.jpg": "https://drive.google.com/file/d/1UevSc_uSPdHGB8H27Yk5aAvzOZKLPe8V/view?usp=drive_link",
     "assets/images/destinations/kuta3.jpg": "https://drive.google.com/file/d/1W15r1pW9qSsHgxBh4_7AAmT10-Oi1DYb/view?usp=drive_link",
     // pandawa
-    "assets/images/destinations/pandawa.jpg": "https://drive.google.com/file/d/1wQ1Ln-G7rTKiysJ7aXNgHO2xVHUJF7zv/view?usp=drive_link",
-    "assets/images/destinations/pandawa1.jpg": "",
+    "assets/images/destinations/pandawa1.jpg": "https://drive.google.com/file/d/1wQ1Ln-G7rTKiysJ7aXNgHO2xVHUJF7zv/view?usp=drive_link",
+    "assets/images/destinations/pandawa.jpg": "https://drive.google.com/file/d/14XcnPFvV1gUyarn0d0k5sFqiQ7M6xgLG/view?usp=drive_link",
     "assets/images/destinations/pandawa2.jpg": "https://drive.google.com/file/d/1cmMkzwF1eUaH4d_mMlQ-XBFvDqOZ4jUM/view?usp=drive_link",
     "assets/images/destinations/pandawa3.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
     // tari kecak(malam)
@@ -64,6 +64,11 @@ const assetDriveMap = {
     "assets/images/destinations/kecak-sub1.jpg": "https://drive.google.com/file/d/131kSqKdWrLrHB-q2TqlSUTNLR3n0umxz/view?usp=drive_link",
     "assets/images/destinations/kecak-sub2.jpg": "https://drive.google.com/file/d/1pmRrc-r6_fLcAMo1c4HXhf6e1PPz3a1T/view?usp=drive_link",
     "assets/images/destinations/kecak-sub3.jpg": "https://drive.google.com/file/d/1MRz0u-xmAWCZXKhXPbJuA2Xs8wQZn4D8/view?usp=drive_link",
+    // kuliner
+    "assets/images/destinations/jimbaran.jpg": "",
+    "assets/images/destinations/jimbaran-sub1.jpg": "",
+    "assets/images/destinations/jimbaran-sub2.jpg": "",
+    "assets/images/destinations/jimbaran-sub3.jpg": "",
 
 //     // Industry[cite: 2]
 //     "assets/images/industry/coffee-roastery.jpg": "",
