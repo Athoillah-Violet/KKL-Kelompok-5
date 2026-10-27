@@ -69,7 +69,8 @@ const assetDriveMap = {
     "assets/images/destinations/jimbaran-sub1.jpg": "https://drive.google.com/file/d/1bJ4JUsfZu_IVpa_YMaPJ88pIf397Him3/view?usp=drive_link",
     "assets/images/destinations/jimbaran-sub2.jpg": "https://drive.google.com/file/d/1RM9bs0ztIhrTScd9ZWQnjYTXXsgBlPzH/view?usp=drive_link",
     "assets/images/destinations/jimbaran-sub3.jpg": "https://drive.google.com/file/d/1ytl9lhP_noHuRkcTyqbyXtr1f7El-fRu/view?usp=drive_link",
-
+// keberangkatan
+    "keberangkatan.jpg": "https://drive.google.com/file/d/1KZxjHLp8tCsZ-vYG842EuZWKsfUDbntN/view?usp=drive_link",
 //     // Industry[cite: 2]
 //     "assets/images/industry/coffee-roastery.jpg": "",
 //     "assets/images/industry/coffee-sub1.jpg": "",[cite: 2]

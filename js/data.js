@@ -109,11 +109,11 @@ const journeyOverview = [
   {
     dayNumber: "01",
     dayLabel: "Hari 01",
-    date: "[Tanggal Keberangkatan]", // [Placeholder] Contoh: 12 Oktober 2026
+    date: "[18 / Agustus / 2026]", // [Placeholder] Contoh: 12 Oktober 2026
     title: "Kedatangan & Inisiasi Langkah di Bali",
-    location: "Denpasar & Sanur",
-    description: "Tiba di Bali, briefing koordinasi kelompok, orientasi rute perjalanan, dan menikmati embusan angin senja pertama di pesisir.",
-    photo: "assets/images/destinations/tanah-lot.jpg",
+    location: "Universitas PGRI SEMARANG",
+    description: "Tiba di UPGRIS, briefing koordinasi, Berangkat sampai Pelabuhan Ketapang - Gili Manuk .",
+    photo: "keberangkatan.jpg",
     alt: "Kedatangan di pesisir Bali"
   },
   {
