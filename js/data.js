@@ -140,7 +140,7 @@ const journeyOverview = [
     dayNumber: "04",
     dayLabel: "Hari 04",
     date: "[21 / Angustus / 2026]", // [Placeholder]
-    title: "Perjalanan pulang dengan berkunjung ke pusat oleh-oleh",
+    title: "Goodby Bali",
     location: "Bangli & Uluwatu",
     description: "perjalanan bisa usai tapi kenangan akan selalu ada di setiap peristiwa.",
     photo: "pulang",
