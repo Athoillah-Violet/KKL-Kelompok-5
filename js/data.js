@@ -372,42 +372,43 @@ const industrialVisits = [
       }
     ]
   },
-  {
-    id: "industri-02",
+ {
+    id: "industri-01",
     category: "industri",
-    companyName: "[Pabrik Pengolahan & Roastery Kopi Kintamani]", // [Placeholder] Contoh: Koperasi Tani Kopi Organik Kintamani
-    sector: "Agroindustri & Pengolahan Pangan",
-    location: "Kintamani, Bangli, Bali",
-    visitOrder: "Kunjungan II",
-    date: "[Tanggal Kunjungan 02]", // [Placeholder]
-    tagline: "Integrasi Hulu ke Hilir Kopi Arabika Bersertifikasi Indikasi Geografis",
-    description: "Mempelajari rantai pasok kopi Arabika dataran tinggi Kintamani. Dari pemetikan buah ceri merah, fermentasi basah, penjemuran di rumah kaca, penyortiran biji cacat (defect sorting), hingga proses penyangraian (roasting) modern yang menjaga cita rasa jeruk khas Kintamani.",
+    companyName: "Balai Diklat Industri (BDI) Denpasar",
+    sector: "Pendidikan & Pengembangan Talenta Digital Kreatif",
+    location: "Denpasar Timur, Bali",
+    visitOrder: "Kunjungan I",
+    date: "18 / Agustus / 2026",
+    tagline: "Pusat Pengembangan Kompetensi SDM Industri Kreatif dan Animasi",
+    description: "Studi lapangan mengenai lembaga diklat milik pemerintah di bawah Kementerian Perindustrian yang berfokus pada pencetakan talenta muda kompeten. Kami mengamati fasilitas pelatihan modern untuk animasi, gim, konten digital, serta sistem inkubator bisnis.",
     activities: [
-      "Kunjungan ke kebun percontohan dan pengamatan tanah vulkanik Gunung Batur.",
-      "Praktik pemilahan biji kopi secara manual dan penjelasan grading kualitas green bean.",
-      "Demonstrasi mesin roaster drum serta pencatatan kurva temperatur roasting.",
-      "Sesi cupping kopi bersama Q-Grader bersertifikat untuk mengenali profil rasa."
+      "Paparan profil lembaga mengenai program diklat 3-in-1 (Pelatihan, Sertifikasi Kompetensi, dan Penempatan Kerja).",
+      "Observasi langsung fasilitas studio animasi, laboratorium komputer grafis, dan ruang produksi media digital.",
+      "Sesi diskusi interaktif bersama instruktur dan manajemen mengenai ekosistem industri kreatif nasional.",
+      "Melihat dari dekat sistem inkubasi bisnis untuk menumbuhkan wirausaha baru di bidang industri kreatif."
     ],
     learnings: [
-      "Prinsip Indikasi Geografis (IG) yang melindungi nilai ekonomis petani kopi lokal di pasar dunia.",
-      "Dampak kontrol kelembapan dan suhu saat pengeringan terhadap kestabilan mutu biji kopi.",
-      "Potensi diversifikasi produk turunan kopi (cascara tea dan pupuk organik kulit ceri)."
+      "Bagaimana peran strategis pemerintah dalam menjembatani dunia pendidikan dengan kebutuhan tenaga kerja industri digital.",
+      "Pentingnya penguasaan teknologi animasi dan multimedia berstandar industri global bagi generasi muda.",
+      "Mekanisme sertifikasi kompetensi resmi untuk memastikan daya saing lulusan di dunia kerja."
     ],
-    cover: "assets/images/industry/coffee-roastery.jpg",
+  
+    cover: "BDI-roastery.jpg",
     coverAlt: "Sesi edukasi pengolahan kopi berlatar panorama Gunung Batur",
     photos: [
       {
-        src: "assets/images/industry/coffee-roastery.jpg",
+        src: "BDI-roastery.jpg",
         alt: "Pengolahan kopi tradisional Kintamani",
         caption: "Mahasiswa belajar memilah biji kopi didampingi pengrajin sangrai lokal di Kintamani."
       },
       {
-        src: "assets/images/industry/coffee-sub1.jpg",
+        src: "BDI-sub1.jpg",
         alt: "Sortir biji kopi green bean",
         caption: "Pemeriksaan visual fisik biji kopi sebelum masuk ke tahap sangrai suhu tinggi."
       },
       {
-        src: "assets/images/industry/coffee-sub2.jpg",
+        src: "BDI-sub2.jpg",
         alt: "Pemandangan Batur dari fasilitas roasting",
         caption: "Gudang penyimpanan dan pengolahan dengan ventilasi alami berhawa sejuk pegunungan."
       }
