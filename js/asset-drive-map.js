@@ -49,18 +49,21 @@ const assetDriveMap = {
 //     "assets/images/destinations/tegalalang-sub2.jpg": "",[cite: 2]
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
 
-    // Destinasi tambahan (wisata-04 s/d wisata-06) — tempel link Drive di sini
+    // kuta
     "assets/images/destinations/kuta.jpg": "https://drive.google.com/file/d/1CvmvcXJ__EuNGHv3r4ijjlZOhp5C1Ayu/view?usp=drive_link  ",
     "assets/images/destinations/kuta1.jpg": "https://drive.google.com/file/d/1OpSYweE9MUvrdEZ3smkJpKXVNFty1AJ_/view?usp=drive_link",
     "assets/images/destinations/kuta2.jpg": "https://drive.google.com/file/d/1UevSc_uSPdHGB8H27Yk5aAvzOZKLPe8V/view?usp=drive_link",
     "assets/images/destinations/kuta3.jpg": "https://drive.google.com/file/d/1W15r1pW9qSsHgxBh4_7AAmT10-Oi1DYb/view?usp=drive_link",
-    "assets/images/destinations/pandawa.jpg": "https://drive.google.com/file/d/1OpSYweE9MUvrdEZ3smkJpKXVNFty1AJ_/view?usp=drive_link",
-    "assets/images/destinations/pandawa1.jpg": "https://drive.google.com/file/d/1lnzwGOQtsat7wcs-G9Y68_XLr2hAkJUm/view?usp=drive_link",
+    // pandawa
+    "assets/images/destinations/pandawa.jpg": "https://drive.google.com/file/d/1wQ1Ln-G7rTKiysJ7aXNgHO2xVHUJF7zv/view?usp=drive_link",
+    "assets/images/destinations/pandawa1.jpg": "",
     "assets/images/destinations/pandawa2.jpg": "https://drive.google.com/file/d/1cmMkzwF1eUaH4d_mMlQ-XBFvDqOZ4jUM/view?usp=drive_link",
     "assets/images/destinations/pandawa3.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
-    "assets/images/destinations/kintamani.jpg": "",
-    "assets/images/destinations/kintamani-sub1.jpg": "",
-    "assets/images/destinations/kintamani-sub2.jpg": "",
+    // tari kecak(malam)
+    "assets/images/destinations/kecak.jpg": "https://drive.google.com/file/d/1lnzwGOQtsat7wcs-G9Y68_XLr2hAkJUm/view?usp=drive_link",
+    "assets/images/destinations/kecak-sub1.jpg": "https://drive.google.com/file/d/131kSqKdWrLrHB-q2TqlSUTNLR3n0umxz/view?usp=drive_link",
+    "assets/images/destinations/kecak-sub2.jpg": "https://drive.google.com/file/d/1pmRrc-r6_fLcAMo1c4HXhf6e1PPz3a1T/view?usp=drive_link",
+    "assets/images/destinations/kecak-sub3.jpg": "https://drive.google.com/file/d/1MRz0u-xmAWCZXKhXPbJuA2Xs8wQZn4D8/view?usp=drive_link",
 
 //     // Industry[cite: 2]
 //     "assets/images/industry/coffee-roastery.jpg": "",

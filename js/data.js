@@ -268,26 +268,26 @@ const destinations = [
   {
     id: "wisata-05",
     category: "wisata",
-    title: "Pura Luhur Uluwatu",
-    location: "Uluwatu, Badung, Bali",
+    title: "Magisnya Pementasan Tari Kecak Berlatar Sunset Pantai Pandawa",
+    location: "Kuta Selatan, Badung, Bali",
     badge: "Pura Tebing & Samudra",
-    description: "Pura yang bertengger di tepi tebing karang setinggi puluhan meter menghadap langsung ke Samudra Hindia. Panorama tebing curam, deburan ombak, dan langit senja menjadikan Uluwatu salah satu titik paling dramatis di ujung selatan Pulau Dewata.",
-    experience: "Kami menyusuri jalan setapak di tepi tebing, sesekali berpapasan dengan kera penghuni sekitar, lalu terdiam menyaksikan matahari tenggelam di garis cakrawala samudra.",
-    cover: "assets/images/destinations/uluwatu.jpg",
+    description:  "Pertunjukan seni tradisional Bali yang ikonik dengan paduan suara puluhan penari pria tanpa baju meneriakkan 'cak!', dipentaskan di panggung terbuka di atas tebing dengan latar belakang pemandangan matahari terbenam yang spektakuler di atas Samudra Hindia.", 
+     experience: "Suara koor 'cak cak cak' yang bergemuruh berpadu sempurna dengan deburan ombak dan langit senja yang dramatis, menciptakan pengalaman magis yang tak terlupakan.",
+    cover: "assets/images/destinations/kecak.jpg",
     coverAlt: "Pura Luhur Uluwatu di atas tebing menghadap samudra",
     photos: [
       {
-        src: "assets/images/destinations/uluwatu.jpg",
+        src: "assets/images/destinations/kecak-sub1.jpg",
         alt: "Pura Luhur Uluwatu di tepi tebing",
         caption: "Arsitektur pura di ujung tebing karang dengan latar birunya Samudra Hindia."
       },
       {
-        src: "assets/images/destinations/uluwatu-sub1.jpg",
+        src: "assets/images/destinations/kecak-sub2.jpg",
         alt: "Tebing karang Uluwatu",
         caption: "Dinding tebing curam yang tegak berdiri menghadapi gempuran ombak dari bawah."
       },
       {
-        src: "assets/images/destinations/uluwatu-sub2.jpg",
+        src: "assets/images/destinations/kecak-sub3.jpg",
         alt: "Senja di Uluwatu",
         caption: "Langit jingga menemani suasana hening menjelang pertunjukan tari Kecak."
       }
