@@ -130,10 +130,10 @@ const journeyOverview = [
     dayNumber: "03",
     dayLabel: "Hari 03",
     date: "[Tanggal Hari 03]", // [Placeholder]
-    title: "Agrowisata Kintamani & Ekologi Terasering",
+    title: "Jalan-jalan di pantai bali bersama prodi, senang di hati",
     location: "Kintamani & Ubud",
-    description: "Studi lapangan pengolahan kopi Arabika Kintamani dari hulu ke hilir, dilanjutkan observasi sistem irigasi Subak di Tegalalang.",
-    photo: "assets/images/destinations/tegalalang.jpg",
+    description: "melihat keindahan pantai Kuta dan Pandawa serta melihat tarian kecak di penghujung sore",
+    photo: "pantai",
     alt: "Terasering hijau Tegalalang Ubud"
   },
   {

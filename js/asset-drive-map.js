@@ -25,7 +25,7 @@ const assetDriveMap = {
   "assets/images/group/group-portrait.jpg": "https://drive.google.com/file/d/1eiSoXVw_ntBDAktnf-_rap25xN2FVzec/view?usp=drive_link",
   "assets/images/hero/hero-cover.jpg": "https://drive.google.com/file/d/1AScO6dkCK7cTWLajR-Row0i8Ib9i4iVr/view?usp=drive_link",
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
-  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/1EJNtz7RzfQOhvv-Y1GbKPBntprqteCG_/view?usp=sharing",
+  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/14NW8FPllK-QU3PS9rMyFJlMU4VPOpAUl/view?usp=drive_link",
   "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/1WAfqM-sdveQojpmrn6pHuAsSCfKmLOf6/view?usp=sharing",
 
 // // Destinations[cite: 2]
@@ -72,14 +72,9 @@ const assetDriveMap = {
 // keberangkatan
     "keberangkatan.jpg": "https://drive.google.com/file/d/1KZxjHLp8tCsZ-vYG842EuZWKsfUDbntN/view?usp=drive_link",
     // hari2
-    
     "hari2.jpg": "https://drive.google.com/file/d/1qh8m6Tt-3VQg8wKP8S_9xbb4OAB9qus2/view?usp=drive_link",
-//     // Industry[cite: 2]
-//     "assets/images/industry/coffee-roastery.jpg": "",
-//     "assets/images/industry/coffee-sub1.jpg": "",[cite: 2]
-//     "assets/images/industry/coffee-sub2.jpg": "",[cite: 2]
-    // "assets/images/industry/coffee-roastery.jpg": "",
-    "assets/images/industry/creative-industry.jpg": "https://drive.google.com/file/d/1LqyPp7xavoJ7eIwMZKhYKvZ4sBw8oI4q/view?usp=drive_link",
+//  hari3
+    "pantai": "https://drive.google.com/file/d/17jamnCrCCUZJMXwmBjDhHvJTgO9R1zIS/view?usp=drive_link",
 //     "assets/images/industry/creative-sub1.jpg": "",
 //     "assets/images/industry/creative-sub2.jpg": "",[cit  e: 2]
 
