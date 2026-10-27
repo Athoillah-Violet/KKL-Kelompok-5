@@ -53,6 +53,7 @@ const assetDriveMap = {
     "assets/images/destinations/kuta.jpg": "https://drive.google.com/file/d/1CvmvcXJ__EuNGHv3r4ijjlZOhp5C1Ayu/view?usp=drive_link  ",
     "assets/images/destinations/kuta1.jpg": "https://drive.google.com/file/d/1OpSYweE9MUvrdEZ3smkJpKXVNFty1AJ_/view?usp=drive_link",
     "assets/images/destinations/kuta2.jpg": "https://drive.google.com/file/d/1UevSc_uSPdHGB8H27Yk5aAvzOZKLPe8V/view?usp=drive_link",
+    "assets/images/destinations/kuta3.jpg": "https://drive.google.com/file/d/1W15r1pW9qSsHgxBh4_7AAmT10-Oi1DYb/view?usp=drive_link",
     "assets/images/destinations/uluwatu.jpg": "",
     "assets/images/destinations/uluwatu-sub1.jpg": "",
     "assets/images/destinations/uluwatu-sub2.jpg": "",

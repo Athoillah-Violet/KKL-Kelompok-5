@@ -217,21 +217,21 @@ const destinations = [
     badge: "Desa Budaya Terbersih",
     description: "Pantai ikonik di Bali yang terkenal di kancah dunia dengan hamparan pasir putih luas serta ombak yang sempurna untuk berselancar. Menawarkan panorama matahari terbenam (sunset) yang memukau dan suasana pantai yang selalu hidup setiap hari.",
      experience: "Suasana sore hari di Pantai Kuta selalu memberikan ketenangan tersendiri, menikmati deburan ombak sambil menyaksikan langit perlahan berubah menjadi jingga keemasan.",
-    cover: "assets/images/destinations/penglipuran.jpg",
+    cover: "assets/images/destinations/kuta.jpg",
     coverAlt: "Jalan utama Desa Adat Penglipuran yang bersih dan tertata",
     photos: [
       {
-        src: "assets/images/destinations/kuta.jpg",
+        src: "assets/images/destinations/kuta1.jpg",
         alt: "Jalan utama Penglipuran",
         caption: "Lorong asri Desa Penglipuran dihiasi bunga kamboja dan arsitektur bata merah seragam."
       },
       {
-        src: "assets/images/destinations/kuta1.jpg",
+        src: "assets/images/destinations/kuta2.jpg",
         alt: "Detail gerbang angkul-angkul",
         caption: "Gerbang pekarangan tradisional bernuansa kayu sirap dan ornamen ukiran Bali."
       },
       {
-        src: "assets/images/destinations/kuta2.jpg",
+        src: "assets/images/destinations/kuta3.jpg",
         alt: "Pekarangan warga Penglipuran",
         caption: "Kesejukan ruang terbuka hijau di dalam lingkungan perumahan adat Bangli."
       }
