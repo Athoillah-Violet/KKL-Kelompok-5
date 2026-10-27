@@ -26,7 +26,7 @@ const assetDriveMap = {
   "assets/images/hero/hero-cover.jpg": "https://drive.google.com/file/d/1AScO6dkCK7cTWLajR-Row0i8Ib9i4iVr/view?usp=drive_link",
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
   "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/14NW8FPllK-QU3PS9rMyFJlMU4VPOpAUl/view?usp=sharing",
-  "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/1WAfqM-sdveQojpmrn6pHuAsSCfKmLOf6/view?usp=sharing",
+  "assets/audio/wonderland-indonesia.mp3": "www.youtube.com/watch?v=hIcK0g2msHA&list=RDhIcK0g2msHA&start_radio=1",
     // Tentang Perjalanan kami
     "assets/images/industry/creative-industry.jpg" : "https://drive.google.com/file/d/1LqyPp7xavoJ7eIwMZKhYKvZ4sBw8oI4q/view?usp=drive_link",
     "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1XdfS6cF4RKXXshYU1gzNUSKk1g9Stq3z/view?usp=drive_link",
