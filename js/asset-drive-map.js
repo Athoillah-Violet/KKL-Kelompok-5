@@ -50,9 +50,9 @@ const assetDriveMap = {
 //     "assets/images/destinations/tegalalang.jpg": "",[cite: 2]
 
     // Destinasi tambahan (wisata-04 s/d wisata-06) — tempel link Drive di sini
-    "assets/images/destinations/kuta.jpg": "https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
-    "assets/images/destinations/kuta1.jpg": "https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
-    "assets/images/destinations/kuta2.jpg": "https://drive.google.com/file/d/1aCRp79owi-IlKxrxUY8U9dtLonDSiae3/view?usp=drive_link",
+    "assets/images/destinations/kuta.jpg": "https://drive.google.com/file/d/1CvmvcXJ__EuNGHv3r4ijjlZOhp5C1Ayu/view?usp=drive_link  ",
+    "assets/images/destinations/kuta1.jpg": "https://drive.google.com/file/d/1OpSYweE9MUvrdEZ3smkJpKXVNFty1AJ_/view?usp=drive_link",
+    "assets/images/destinations/kuta2.jpg": "https://drive.google.com/file/d/1UevSc_uSPdHGB8H27Yk5aAvzOZKLPe8V/view?usp=drive_link",
     "assets/images/destinations/uluwatu.jpg": "",
     "assets/images/destinations/uluwatu-sub1.jpg": "",
     "assets/images/destinations/uluwatu-sub2.jpg": "",
