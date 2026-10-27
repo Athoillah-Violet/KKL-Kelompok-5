@@ -129,7 +129,7 @@ const journeyOverview = [
   {
     dayNumber: "03",
     dayLabel: "Hari 03",
-    date: "[Tanggal Hari 03]", // [Placeholder]
+    date: "[20 / Agustus / 2026]", // [Placeholder]
     title: "Jalan-jalan di pantai bali bersama prodi, senang di hati",
     location: "Kintamani & Ubud",
     description: "melihat keindahan pantai Kuta dan Pandawa serta melihat tarian kecak di penghujung sore",
@@ -139,11 +139,11 @@ const journeyOverview = [
   {
     dayNumber: "04",
     dayLabel: "Hari 04",
-    date: "[Tanggal Hari 04]", // [Placeholder]
-    title: "Harmoni Adat Desa Penglipuran & Refleksi",
+    date: "[21 / Angustus / 2026]", // [Placeholder]
+    title: "Perjalanan pulang dengan berkunjung ke pusat oleh-oleh",
     location: "Bangli & Uluwatu",
-    description: "Mendalami tata ruang berbasis kearifan lokal Tri Hita Karana di Desa Penglipuran dan ditutup siluet senja pura tebing laut.",
-    photo: "assets/images/destinations/penglipuran.jpg",
+    description: "perjalanan bisa usai tapi kenangan akan selalu ada di setiap peristiwa.",
+    photo: "pulang",
     alt: "Desa adat Penglipuran yang asri"
   }
 ];

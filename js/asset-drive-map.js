@@ -75,7 +75,8 @@ const assetDriveMap = {
     "hari2.jpg": "https://drive.google.com/file/d/1qh8m6Tt-3VQg8wKP8S_9xbb4OAB9qus2/view?usp=drive_link",
 //  hari3
     "pantai": "https://drive.google.com/file/d/17jamnCrCCUZJMXwmBjDhHvJTgO9R1zIS/view?usp=drive_link",
-//     "assets/images/industry/creative-sub1.jpg": "",
+//     pulang
+    "pulang": "https://drive.google.com/file/d/1gLJl1IA0e2B9t3LvYBOhUCgkn_sptLN2/view?usp=drive_link",
 //     "assets/images/industry/creative-sub2.jpg": "",[cit  e: 2]
 
 //     // Moments[cite: 2]
