@@ -352,21 +352,21 @@ const industrialVisits = [
       "Sinergi yang efektif antara tim R&D, lini produksi pabrik, dan tim pemasaran dalam meluncurkan produk baru ke pasar."
     ],
   
-    cover: "assets/images/industry/creative-industry.jpg",
+    cover: "indistri1",
     coverAlt: "Mahasiswa mengamati workshop proses cetak dan produksi kreatif",
     photos: [
       {
-        src: "assets/images/industry/creative-industry.jpg",
+        src: "indistri12",
         alt: "Suasana studio workshop kreatif",
         caption: "Observasi alur sablon manual dan pembagian tugas dalam lini produksi kreatif."
       },
       {
-        src: "assets/images/industry/creative-sub1.jpg",
+        src: "indistri13",
         alt: "Mahasiswa mencatat arahan instruktur",
         caption: "Kelompok menyimak penjelasan teknis seputar formulasi warna dan bahan kain."
       },
       {
-        src: "assets/images/industry/creative-sub2.jpg",
+        src: "indistri14",
         alt: "Pajangan prototipe dan katalog produk",
         caption: "Display etalase produk jadi yang siap didistribusikan ke jaringan gerai oleh-oleh."
       }

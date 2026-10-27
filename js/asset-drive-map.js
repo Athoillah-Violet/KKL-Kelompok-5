@@ -71,6 +71,14 @@ const assetDriveMap = {
 //     pulang
     "pulang": "https://drive.google.com/file/d/1gLJl1IA0e2B9t3LvYBOhUCgkn_sptLN2/view?usp=drive_link",
 //     "assets/images/industry/creative-sub2.jpg": "",[cit  e: 2]
+// industri
+"indistri14" : "https://drive.google.com/file/d/1Y_Vr_IcU0iAyK9Hh_mbG7w-C_vPM3YzR/view?usp=drive_link",
+"indistri12" : "https://drive.google.com/file/d/12wiYduNA5xs89koTlxeXiQLwyjk4nv8F/view?usp=drive_link",
+"indistri13" : "https://drive.google.com/file/d/1Vy6lvRNLr-dc8C4WNRsBn8BDB5UvopyA/view?usp=drive_link",
+"indistri1" : "https://drive.google.com/file/d/1wd5YGQXoAaTUJzW6NcJnYMIl2A93pdPl/view?usp=drive_link",
+
+
+
 
 //     // Moments
     "assets/images/moments/moment-01.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
