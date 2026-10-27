@@ -30,7 +30,7 @@ const assetDriveMap = {
     // Tentang Perjalanan kami
     "assets/images/industry/creative-industry.jpg" : "https://drive.google.com/file/d/1LqyPp7xavoJ7eIwMZKhYKvZ4sBw8oI4q/view?usp=drive_link",
     "assets/images/destinations/tanah-lot.jpg": "https://drive.google.com/file/d/1XdfS6cF4RKXXshYU1gzNUSKk1g9Stq3z/view?usp=drive_link",
-// // Destinations[cite: 2]
+// // Destinations
     "assets/images/destinations/penglipuran-sub1.jpg": "",
     "assets/images/destinations/penglipuran.jpg": "https://drive.google.com/file/d/1kOwpJBNG-FUYUk2MExLz8b98WtSx-x5P/view?usp=drive_link",
 
@@ -72,12 +72,12 @@ const assetDriveMap = {
     "pulang": "https://drive.google.com/file/d/1gLJl1IA0e2B9t3LvYBOhUCgkn_sptLN2/view?usp=drive_link",
 //     "assets/images/industry/creative-sub2.jpg": "",[cit  e: 2]
 
-//     // Moments[cite: 2]
-//     "assets/images/moments/moment-01.jpg": "",[cite: 2]
-//     "assets/images/moments/moment-02.jpg": "",[cite: 2]
-//     "assets/images/moments/moment-03.jpg": "",[cite: 2]
-//     "assets/images/moments/moment-04.jpg": "",[cite: 2]
-//     "assets/images/moments/moment-05.jpg": "",[cite: 2]
+//     // Moments
+    "assets/images/moments/moment-01.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
+    "assets/images/moments/moment-02.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
+    "assets/images/moments/moment-03.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
+    "assets/images/moments/moment-04.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
+    "assets/images/moments/moment-05.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
     "assets/images/moments/moment-06.jpg": "https://drive.google.com/file/d/1FH8MvdZpOLRvD47yiKr-EzyBP2Yqa4yw/view?usp=drive_link",
 
 };
