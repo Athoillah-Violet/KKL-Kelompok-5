@@ -329,27 +329,29 @@ const destinations = [
  * agenda kegiatan, dan intisari pembelajaran akademik.
  */
 const industrialVisits = [
-  {
+  
+{
     id: "industri-01",
     category: "industri",
-    companyName: "[Industri Kreatif & Merchandise Bali]", // [Placeholder] Contoh: Rumah Kreatif & Pabrik Kata Joger / Kaos Krisna
-    sector: "Industri Kreatif & Manajemen Brand",
-    location: "Kuta / Tabanan, Bali",
+    companyName: "PT Victoria Care Indonesia Tbk",
+    sector: "Industri Manufaktur Kosmetik & Perawatan Tubuh",
+    location: "Semarang, Jawa Tengah",
     visitOrder: "Kunjungan I",
-    date: "[Tanggal Kunjungan 01]", // [Placeholder]
-    tagline: "Eksplorasi Nilai Tambah Desain Lokal dalam Pasar Nasional",
-    description: "Studi lapangan mengenai cara mentransformasikan keunikan narasi lokal menjadi produk fesyen dan cendera mata berdaya saing tinggi. Kami mengamati alur kerja dari perancangan konsep, sablon presisi, kendali mutu, hingga etalase penjualan ritel.",
+    date: "18 / Agustus / 2026",
+    tagline: "Inovasi Kecantikan Lokal Berstandar Global",
+    description: "Studi lapangan mengenai proses manufaktur produk kecantikan dan perawatan tubuh berteknologi modern. Kami mengamati alur kerja dari riset dan pengembangan formula, proses produksi massal berstandar CPKB, sistem kendali mutu, hingga distribusi produk ritel.",
     activities: [
-      "Paparan manajemen mengenai strategi hak cipta dan diferensiasi merek.",
-      "Observasi langsung area workshop produksi, penyablonan tekstil, dan penjahitan.",
-      "Sesi tanya-jawab interaktif bersama kepala divisi operasional dan desainer produk.",
-      "Analisis sistem inventori dan pola pelayanan pelanggan di toko ritel."
+      "Paparan manajemen mengenai strategi inovasi produk dan pengembangan merek lokal (seperti Herborist dan Miranda).",
+      "Observasi langsung area *cleanroom* pabrik, mesin pencampuran formula, lini pengemasan otomatis, dan laboratorium QC.",
+      "Sesi tanya-jawab interaktif bersama tim *Research & Development* (R&D) dan kepala divisi operasional pabrik.",
+      "Analisis penerapan standar Cara Pembuatan Kosmetik yang Baik (CPKB) dan manajemen rantai pasok logistik."
     ],
     learnings: [
-      "Bagaimana autentisitas lokal mampu menjadi benteng pertahanan merek terhadap serbuan produk massal.",
-      "Pentingnya standardisasi kualitas (QC) pada setiap tahapan produksi manufaktur skala menengah.",
-      "Kolaborasi erat antara tim desain kreatif dan tim manajemen logistik gudang."
+      "Bagaimana riset pasar dan inovasi formula menjadi kunci daya saing produk kecantikan di kancah nasional maupun internasional.",
+      "Pentingnya kepatuhan terhadap standar CPKB dan quality control yang ketat pada industri manufaktur skala besar.",
+      "Sinergi yang efektif antara tim R&D, lini produksi pabrik, dan tim pemasaran dalam meluncurkan produk baru ke pasar."
     ],
+  
     cover: "assets/images/industry/creative-industry.jpg",
     coverAlt: "Mahasiswa mengamati workshop proses cetak dan produksi kreatif",
     photos: [
