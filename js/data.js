@@ -434,8 +434,8 @@ const moments = [
   {
     id: "momen-02",
     category: "moments",
-    title: "lebih mengnal adn berbelanja di pT Victoria care",
-    location: "Kintamani",
+    title: "lebih mengnal adn berbelanja di PT Victoria care",
+    location: "Workshop Industri",
     date: "[Catatan Hari 01]",
     caption: "Belajar sejarah berdirinya, dan belanja produvt di PT Victoria care Indonesia",
     cover: "assets/images/moments/moment-02.jpg",
@@ -445,8 +445,8 @@ const moments = [
     id: "momen-03",
     category: "moments",
     title: "belajar di Balai Diklat Indostri Bali",
-    location: "Penglipuran",
-    date: "[Catatan Hari 04]",
+    location: "Denpasar",
+    date: "[Catatan Hari 03]",
     caption: "Menajamkan pengtahuan melaluipengalaman",
     cover: "assets/images/moments/moment-03.jpg",
     coverAlt: "Langkah santai di Penglipuran"
@@ -455,8 +455,8 @@ const moments = [
     id: "momen-04",
     category: "moments",
     title: "Menunggu Detik-Detik nyanyian malam",
-    location: "Pesisir Karang",
-    date: "[Catatan Hari 01]",
+    location: "Pesisir Pantai",
+    date: "[Catatan Hari 04]",
     caption: "Duduk berjajar di tepi pantai melihat ke balik garis cakrawala samudra.",
     cover: "assets/images/moments/moment-04.jpg",
     coverAlt: "Menunggu senja di tepi laut"
@@ -465,7 +465,7 @@ const moments = [
     id: "momen-05",
     category: "moments",
     title: "Langkah Santai di Pantai pandawa",
-    location: "Ubud Valley",
+    location: "Pantai Pandawa",
     date: "[Catatan Hari 03]",
     caption: "Rasa letih terbayar lunas saat mata dimanjakan hamparan undakan hijau dan semilir angin pagi.",
     cover: "assets/images/moments/moment-05.jpg",
@@ -474,10 +474,10 @@ const moments = [
   {
     id: "momen-06",
     category: "moments",
-    title: "Di Ujung Petang Menjelang Pulang",
-    location: "Batu Pahat Karang",
-    date: "[Catatan Hari 04]",
-    caption: "Satu jepretan sebelum senja benar-benar padam, merangkum rasa syukur atas perjalanan yang telah kami lalui.",
+    title: "Berkunjung dan bermain di candi kuning",
+    location: "Candi Kuning",
+    date: "[Catatan Hari 02]",
+    caption: "Satu jepretan merangkum rasa syukur atas perjalanan yang telah kami lalui.",
     cover: "assets/images/moments/moment-06.jpg",
     coverAlt: "Petang di samudra Bali"
   }
