@@ -547,7 +547,7 @@ const teamMembers = [
   {
     id: "member-02",
     number: "02",
-    name: "M.Rafisyach.A.S (24670130)",
+    name: "Rafi Asyam Firjatullah 24670077",
     role: "Pengacara",
     quote: "Jika HTML perlu CSS, maka aku perlu minum ES.",
     photo: "assets/images/members/member-02.jpg",
