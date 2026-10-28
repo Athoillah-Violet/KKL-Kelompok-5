@@ -85,7 +85,7 @@ const assetDriveMap = {
     "assets/images/moments/moment-01.jpg": "https://drive.google.com/file/d/18uc_C0skZ4kKzuNqnjSdhZDlgoDUF11L/view?usp=drive_link",
     "assets/images/moments/moment-02.jpg": "https://drive.google.com/file/d/1P8-Z1Ywms22Q7P0ycD208F9HxGL7cn9I/view?usp=drive_link",
     "assets/images/moments/moment-03.jpg": "https://drive.google.com/file/d/1uKylIH8NKIq0Uv9MwTjzfA-iT-y288mW/view?usp=drive_link",
-    "assets/images/moments/moment-04.jpg": "https://drive.google.com/file/d/1uKylIH8NKIq0Uv9MwTjzfA-iT-y288mW/view?usp=drive_link",
+    "assets/images/moments/moment-04.jpg": "https://drive.google.com/file/d/1ytl9lhP_noHuRkcTyqbyXtr1f7El-fRu/view?usp=drive_link",
     "assets/images/moments/moment-05.jpg": "https://drive.google.com/file/d/1XDEsHaLt3twrqclZG-YGwfOX_P5EI3Vc/view?usp=drive_link",
     "assets/images/moments/moment-06.jpg": "https://drive.google.com/file/d/1FH8MvdZpOLRvD47yiKr-EzyBP2Yqa4yw/view?usp=drive_link",
 

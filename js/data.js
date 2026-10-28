@@ -426,8 +426,8 @@ const moments = [
     category: "moments",
     title: "Diskusi Ringan & Catatan Lapangan",
     location: "Workshop Industri",
-    date: "[Catatan Hari 02]",
-    caption: "Membagi lembaran catatan dan saling memeriksa kembali poin penting sebelum presentasi harian.",
+    date: "[Catatan Hari 01]",
+    caption: "Berkunjung ke PT Victoria care Indonesia, Semarang",
     cover: "assets/images/moments/moment-01.jpg",
     coverAlt: "Diskusi catatan bersama"
   },
@@ -436,8 +436,8 @@ const moments = [
     category: "moments",
     title: "Belajar Bersama Petani Kintamani",
     location: "Kintamani",
-    date: "[Catatan Hari 03]",
-    caption: "Momen hangat saat ibu-ibu petani mengajarkan kami teknik memilah biji kopi dengan teliti.",
+    date: "[Catatan Hari 01]",
+    caption: "Belajar sejarah berdirinya, dan belanja produvt di PT Victoria care Indonesia",
     cover: "assets/images/moments/moment-02.jpg",
     coverAlt: "Belajar bersama petani"
   },
