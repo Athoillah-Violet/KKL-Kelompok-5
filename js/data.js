@@ -424,7 +424,7 @@ const moments = [
   {
     id: "momen-01",
     category: "moments",
-    title: "Diskusi Ringan & Catatan Lapangan",
+    title: "Bermain dan belajar di PT Vicroria care",
     location: "Workshop Industri",
     date: "[Catatan Hari 01]",
     caption: "Berkunjung ke PT Victoria care Indonesia, Semarang",
@@ -434,7 +434,7 @@ const moments = [
   {
     id: "momen-02",
     category: "moments",
-    title: "Belajar Bersama Petani Kintamani",
+    title: "lebih mengnal adn berbelanja di pT Victoria care",
     location: "Kintamani",
     date: "[Catatan Hari 01]",
     caption: "Belajar sejarah berdirinya, dan belanja produvt di PT Victoria care Indonesia",
@@ -444,27 +444,27 @@ const moments = [
   {
     id: "momen-03",
     category: "moments",
-    title: "Langkah Santai di Lorong Desa",
+    title: "belajar di Balai Diklat Indostri Bali",
     location: "Penglipuran",
     date: "[Catatan Hari 04]",
-    caption: "Menikmati udara sejuk tanpa deru knalpot, sekadar bertukar tawa di sela agenda padat.",
+    caption: "Menajamkan pengtahuan melaluipengalaman",
     cover: "assets/images/moments/moment-03.jpg",
     coverAlt: "Langkah santai di Penglipuran"
   },
   {
     id: "momen-04",
     category: "moments",
-    title: "Menunggu Detik-Detik Lembayung Senja",
+    title: "Menunggu Detik-Detik nyanyian malam",
     location: "Pesisir Karang",
     date: "[Catatan Hari 01]",
-    caption: "Duduk berjajar di tepi karang, menunggu surya berpamitan ke balik garis cakrawala samudra.",
+    caption: "Duduk berjajar di tepi pantai melihat ke balik garis cakrawala samudra.",
     cover: "assets/images/moments/moment-04.jpg",
     coverAlt: "Menunggu senja di tepi laut"
   },
   {
     id: "momen-05",
     category: "moments",
-    title: "Pagi Hijau yang Menyegarkan Pikiran",
+    title: "Langkah Santai di Pantai pandawa",
     location: "Ubud Valley",
     date: "[Catatan Hari 03]",
     caption: "Rasa letih terbayar lunas saat mata dimanjakan hamparan undakan hijau dan semilir angin pagi.",
