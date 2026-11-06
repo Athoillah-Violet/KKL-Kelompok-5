@@ -22,10 +22,12 @@ const assetDriveMap = {
   "assets/images/members/member-08.jpg": "https://drive.google.com/file/d/1gUgE0-WGp8RhfjaLLBWP7WZQzmOenvMH/view?usp=drive_link",
   "assets/images/members/member-09.jpg": "https://drive.google.com/file/d/1VA7zFhXGOZm_Xz_BXjwitllp96H9N2ug/view?usp=drive_link",
   "assets/images/members/member-10.jpg": "https://drive.google.com/file/d/1flxcEkt2qlxIi9Vj780lA37HTEw9qtGq/view?usp=drive_link",
+  "assets/images/members/member-11.jpg": "https://drive.google.com/file/d/1Nps71w7VRGI3wgE9omfIHcbeXw2kNkc6/view?usp=drive_link",
+  "assets/images/members/member-12.jpg": "https://drive.google.com/file/d/1SZeouE9kBiiV8I-emX4dLgtbIJ3Moof_/view?usp=drive_link",
   "assets/images/group/group-portrait.jpg": "https://drive.google.com/file/d/1eiSoXVw_ntBDAktnf-_rap25xN2FVzec/view?usp=drive_link",
   "assets/images/hero/hero-cover.jpg": "https://drive.google.com/file/d/1AScO6dkCK7cTWLajR-Row0i8Ib9i4iVr/view?usp=drive_link",
   // Perhatikan ejaan: journey-highlight (bukan high17ght)
-  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/14NW8FPllK-QU3PS9rMyFJlMU4VPOpAUl/view?usp=sharing",
+  "assets/videos/journey-highlight.mp4": "https://drive.google.com/file/d/1qkWdS08TU6WFZ7ahJnIMKp-bCodJQhmJ/view?usp=sharing",
   "assets/audio/wonderland-indonesia.mp3": "https://drive.google.com/file/d/12QSNOArplxbXWq7bsth0XHV3BQi5LPC2/view?usp=sharing",
     // Tentang Perjalanan kami
     "assets/images/industry/creative-industry.jpg" : "https://drive.google.com/file/d/1LqyPp7xavoJ7eIwMZKhYKvZ4sBw8oI4q/view?usp=drive_link",

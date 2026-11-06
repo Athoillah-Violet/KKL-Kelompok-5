@@ -32,7 +32,7 @@ const siteConfig = {
   institutionName: "[Nama Program Studi / Universitas]", // [Placeholder] Contoh: Teknik Informatika - Universitas Indonesia
   activityName: "Kunjungan Kerja Lapangan (KKL) Bali",
   travelPeriod: "[Bulan Tahun, misal: Oktober 2026]", // [Placeholder] Periode perjalanan
-  totalMembers: 10,
+  totalMembers: 12,
   
   // Kontak atau tautan repositori (opsional, jika kosong tidak akan dimunculkan)
   repoUrl: "https://github.com/",
@@ -93,7 +93,7 @@ const heroConfig = {
   metaBadges: [
     { label: "Kegiatan", value: "KKL Lapangan" },
     { label: "Lokasi", value: "Bali, Indonesia" },
-    { label: "Kelompok", value: "Kelompok 5 (10 Orang)" }
+    { label: "Kelompok", value: "Kelompok 5 (12 Orang)" }
   ],
   
   ctaText: "Jelajahi Perjalanan",
@@ -535,10 +535,20 @@ const videos = [
  */
 const teamMembers = [
   {
+    id: "member-00",
+    number: "DPL",
+    name: "Ramadhan Renaldy, M.Kom (249901659)",
+    role: "Dosen Pembimbing Lapangan",
+    quote: "Membimbing dengan ilmu, menemani dengan keteladanan.",
+    photo: "assets/images/members/member-12.jpg",
+    alt: "Potret Dosen Pembimbing Lapangan",
+    imagePosition: "center 20%"
+  },
+  {
     id: "member-01",
     number: "01",
     name: "Ahmad Athoillah Almadany (24670012)", // [Placeholder] Ganti dengan nama lengkap anggota
-    role: "Web Develop",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "saat kau mau mencariku, temui aku di rassa sesalmu, Adios....",
     photo: "assets/images/members/member-01.jpg",
     alt: "Potret Anggota 01 - Ketua Kelompok",
@@ -548,7 +558,7 @@ const teamMembers = [
     id: "member-02",
     number: "02",
     name: "Rafi Asyam Firjatullah (24670077)",
-    role: "Pengacara",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Jika HTML perlu CSS, maka aku perlu minum ES.",
     photo: "assets/images/members/member-02.jpg",
     alt: "Potret Anggota 02 - Sekretaris",
@@ -558,7 +568,7 @@ const teamMembers = [
     id: "member-03",
     number: "03",
     name: "Mifgha Hanif Syahputra (24670078)",
-    role: "Lord Editor",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: ".Aku besar bukan karena keinginan, tapi karena itulah pencapaian",
     photo: "assets/images/members/member-03.jpg",
     alt: "Potret Anggota 03 - Bendahara",
@@ -568,7 +578,7 @@ const teamMembers = [
     id: "member-04",
     number: "04",
     name: "IMAH NURAINI (24670024)",
-    role: "Koordinator Dokumentasi & Foto",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Jalan-jalan adalah aku, aku aadlah Jalan-jalan.",
     photo: "assets/images/members/member-04.jpg",
     alt: "Potret Anggota 04 - Fotografer",
@@ -578,7 +588,7 @@ const teamMembers = [
     id: "member-05",
     number: "05",
     name: "Nazlia Intani R.E (24670019)",
-    role: "Dokumentasi Laporan",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Setiap senyuman dan canda tawa adalah potongan adegan dari film perjalanan terindah kita.",
     photo: "assets/images/members/member-05.jpg",
     alt: "Potret Anggota 05 - Videografer",
@@ -588,7 +598,7 @@ const teamMembers = [
     id: "member-06",
     number: "06",
     name: "Samrina Muharditami (24670139)",
-    role: "Laporan Builder",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Menghubungkan ruang kelas dengan realitas dunia kerja adalah pengalaman yang membuka mata.",
     photo: "assets/images/members/member-06.jpg",
     alt: "Potret Anggota 06 - Humas",
@@ -598,7 +608,7 @@ const teamMembers = [
     id: "member-07",
     number: "07",
     name: "Farid Nur Ilham (24670054)",
-    role: "Lord Treveler",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Jalanan berliku Bali mengajarkan kami arti kesabaran dan kebersamaan di sepanjang rute.",
     photo: "assets/images/members/member-07.jpg",
     alt: "Potret Anggota 07 - Akomodasi",
@@ -608,7 +618,7 @@ const teamMembers = [
     id: "member-08",
     number: "08",
     name: "M.Rafisyach.A.S (24670130)",
-    role: "Koordinator Lapangan & Keselamatan",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Aku sepertinya bukan karena penampilannya, tapi karena akulah dirinya.",
     photo: "assets/images/members/member-08.jpg",
     alt: "Potret Anggota 08 - Korlap",
@@ -618,7 +628,7 @@ const teamMembers = [
     id: "member-09",
     number: "09",
     name: "Muh toha mahfudz (24670113)",
-    role: "Penyusun Laporan Akademik",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Data dan wawasan yang kami dapatkan di Bali adalah bekal nyata untuk masa depan profesional kami.",
     photo: "assets/images/members/member-09.jpg",
     alt: "Potret Anggota 09 - Penyusun Laporan",
@@ -628,10 +638,20 @@ const teamMembers = [
     id: "member-10",
     number: "10",
     name: "Muhammad Okta Ramadhani (24670016) ",
-    role: "Kreatif & Publikasi Publik",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
     quote: "Perjalanan ini usai, namun tali persaudaraan sepuluh orang ini akan terus berlanjut.",
     photo: "assets/images/members/member-10.jpg",
     alt: "Potret Anggota 10 - Kreatif Publikasi",
+    imagePosition: "center 20%"
+  },
+  {
+    id: "member-11",
+    number: "11",
+    name: "Abe Setya Prayoga (24670054)",
+    role: "Kelompok 5 KKL Informatika UPGRIS",
+    quote: "Setiap perjalanan adalah pelajaran, setiap langkah adalah cerita.",
+    photo: "assets/images/members/member-11.jpg",
+    alt: "Potret Anggota 11",
     imagePosition: "center 20%"
   }
 ];

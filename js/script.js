@@ -1054,33 +1054,68 @@ function renderTeam() {
     `;
   }
 
-  // 2. Member Profiles (Tepat 10 Anggota)
+  // 2. Member Profiles (DPL + Anggota)
+  const dplContainer = document.getElementById("dpl-container");
   const teamGrid = document.getElementById("team-grid");
-  if (teamGrid && typeof teamMembers !== "undefined" && Array.isArray(teamMembers)) {
-    teamGrid.innerHTML = teamMembers.map(member => {
-      const photoUrl = resolveAssetUrl(member.photo, "image");
-      return `
-      <article class="member-card">
-        <div class="member-photo-wrap" onclick="openSingleLightbox('${escapeQuotes(photoUrl)}', '${escapeQuotes(member.name)} — ${escapeQuotes(member.role)}')">
+  
+  if (typeof teamMembers !== "undefined" && Array.isArray(teamMembers)) {
+    // Separate DPL (member-00) from regular members
+    const dplMember = teamMembers.find(m => m.id === "member-00");
+    const regularMembers = teamMembers.filter(m => m.id !== "member-00");
+    
+    // Render DPL card in separate container at top
+    if (dplContainer && dplMember) {
+      const photoUrl = resolveAssetUrl(dplMember.photo, "image");
+      dplContainer.innerHTML = `
+      <article class="dpl-card">
+        <div class="dpl-photo-wrap" onclick="openSingleLightbox('${escapeQuotes(photoUrl)}', '${escapeQuotes(dplMember.name)} — ${escapeQuotes(dplMember.role)}')">
           <img 
             src="${photoUrl}" 
-            alt="${member.alt || member.name}" 
-            class="member-photo" 
-            style="object-position: ${member.imagePosition || 'center 20%'};"
+            alt="${dplMember.alt || dplMember.name}" 
+            class="dpl-photo" 
+            style="object-position: ${dplMember.imagePosition || 'center 20%'};"
             loading="lazy" 
             decoding="async"
-            onerror="handleImageError(this, '${escapeQuotes(member.name)}')"
+            onerror="handleImageError(this, '${escapeQuotes(dplMember.name)}')"
           >
-          <span class="member-number-badge">${escapeHtml(member.number || "00")}</span>
+          <span class="dpl-number-badge">${escapeHtml(dplMember.number || "DPL")}</span>
         </div>
-        <div class="member-info">
-          <span class="member-role">${escapeHtml(member.role || "Anggota")}</span>
-          <h3 class="member-name">${escapeHtml(member.name)}</h3>
-          ${member.quote ? `<p class="member-quote">"${escapeHtml(member.quote)}"</p>` : ""}
+        <div class="dpl-info">
+          <span class="dpl-role">${escapeHtml(dplMember.role || "Dosen Pembimbing")}</span>
+          <h3 class="dpl-name">${escapeHtml(dplMember.name)}</h3>
+          ${dplMember.quote ? `<p class="dpl-quote">"${escapeHtml(dplMember.quote)}"</p>` : ""}
         </div>
       </article>
-    `;
-    }).join("");
+      `;
+    }
+    
+    // Render regular members in grid
+    if (teamGrid) {
+      teamGrid.innerHTML = regularMembers.map(member => {
+        const photoUrl = resolveAssetUrl(member.photo, "image");
+        return `
+        <article class="member-card">
+          <div class="member-photo-wrap" onclick="openSingleLightbox('${escapeQuotes(photoUrl)}', '${escapeQuotes(member.name)} — ${escapeQuotes(member.role)}')">
+            <img 
+              src="${photoUrl}" 
+              alt="${member.alt || member.name}" 
+              class="member-photo" 
+              style="object-position: ${member.imagePosition || 'center 20%'};"
+              loading="lazy" 
+              decoding="async"
+              onerror="handleImageError(this, '${escapeQuotes(member.name)}')"
+            >
+            <span class="member-number-badge">${escapeHtml(member.number || "00")}</span>
+          </div>
+          <div class="member-info">
+            <span class="member-role">${escapeHtml(member.role || "Anggota")}</span>
+            <h3 class="member-name">${escapeHtml(member.name)}</h3>
+            ${member.quote ? `<p class="member-quote">"${escapeHtml(member.quote)}"</p>` : ""}
+          </div>
+        </article>
+      `;
+      }).join("");
+    }
   }
 }
 
