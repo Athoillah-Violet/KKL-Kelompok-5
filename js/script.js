@@ -1048,7 +1048,7 @@ function renderTeam() {
         </div>
         <div class="group-portrait-caption">
           <span>${escapeHtml(groupPortrait.caption || "Sepuluh individu, satu perjalanan.")}</span>
-          <span class="group-badge">10 Anggota Lengkap</span>
+          <span class="group-badge">11 Anggota Lengkap</span>
         </div>
       </div>
     `;
