@@ -661,8 +661,8 @@ const teamMembers = [
  */
 const groupPortrait = {
   src: "assets/images/group/group-portrait.jpg",
-  alt: "Foto bersama seluruh 10 anggota kelompok KKL di Bali",
-  caption: "Bersatu kita teguh bercerai kita kawin lagi. (Gubernur Kalimantan Tengah H. Agustiar Sabran, S.I.Kom.)"
+  alt: "Foto bersama seluruh 11 anggota kelompok KKL di Bali",
+  caption: "Bersatu kita teguh bercerai kita runtuh."
 };
 
 /**
